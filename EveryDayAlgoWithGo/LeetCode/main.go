@@ -7,5 +7,6 @@ func main() {
 	// fmt.Print(isPalindrome(121))
 	//fmt.Print(romanToInt("MCMXCIV"))
 	//fmt.Print(longestCommonPrefix([]string{"flower", "flow", "flight"}))
-	fmt.Print(isValid("(([]))"))
+	//fmt.Print(isValid("(([]))"))
+	fmt.Print(mergeTwoLists(&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 4}}}, &ListNode{Val: 1, Next: &ListNode{Val: 3, Next: &ListNode{Val: 4}}}))
 }
