@@ -11,5 +11,6 @@ func main() {
 	//fmt.Print(mergeTwoLists(&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 4}}}, &ListNode{Val: 1, Next: &ListNode{Val: 3, Next: &ListNode{Val: 4}}}))
 	//fmt.Print(removeDuplicates([]int{0, 0, 1, 1, 1, 2, 2, 3, 3, 4}))
 	//fmt.Print(strStr("hello", "ll"))
-	fmt.Print(searchInsert([]int{1, 3, 5, 6}, 2))
+	//fmt.Print(searchInsert([]int{1, 3, 5, 6}, 2))
+	fmt.Print(maxSubArray([]int{-2, 1, -3, 4, -1, 2, 1, -5, 4}))
 }
