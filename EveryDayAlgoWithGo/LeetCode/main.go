@@ -14,5 +14,6 @@ func main() {
 	//fmt.Print(searchInsert([]int{1, 3, 5, 6}, 2))
 	//fmt.Print(maxSubArray([]int{-2, 1, -3, 4, -1, 2, 1, -5, 4}))
 	//fmt.Print(lengthOfLastWord("   fly me   to   the moon  "))
-	fmt.Print(plusOne([]int{9}))
+	//fmt.Print(plusOne([]int{8}))
+	fmt.Print(addBinary("11", "1"))
 }
