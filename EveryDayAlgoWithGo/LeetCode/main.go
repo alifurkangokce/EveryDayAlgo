@@ -15,5 +15,6 @@ func main() {
 	//fmt.Print(maxSubArray([]int{-2, 1, -3, 4, -1, 2, 1, -5, 4}))
 	//fmt.Print(lengthOfLastWord("   fly me   to   the moon  "))
 	//fmt.Print(plusOne([]int{8}))
-	fmt.Print(addBinary("11", "1"))
+	//fmt.Print(addBinary("11", "1"))
+	fmt.Print(mySqrt(8))
 }
