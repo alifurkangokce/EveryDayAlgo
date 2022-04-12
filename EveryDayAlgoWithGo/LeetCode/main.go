@@ -16,5 +16,6 @@ func main() {
 	//fmt.Print(lengthOfLastWord("   fly me   to   the moon  "))
 	//fmt.Print(plusOne([]int{8}))
 	//fmt.Print(addBinary("11", "1"))
-	fmt.Print(mySqrt(8))
+	//fmt.Print(mySqrt(8))
+	fmt.Print(climbStairs(5))
 }
