@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func main() {
 	//fmt.Print(TwoSum([]int{3, 2, 4}, 6))
 	// fmt.Print(isPalindrome(121))
@@ -17,5 +15,6 @@ func main() {
 	//fmt.Print(plusOne([]int{8}))
 	//fmt.Print(addBinary("11", "1"))
 	//fmt.Print(mySqrt(8))
-	fmt.Print(climbStairs(5))
+	//fmt.Print(climbStairs(5))
+	merge([]int{1, 2, 3, 0, 0, 0}, 3, []int{2, 5, 6}, 3)
 }
