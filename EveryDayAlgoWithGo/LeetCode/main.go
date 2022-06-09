@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type TreeNode struct {
 	Val   int
@@ -32,5 +34,6 @@ func main() {
 	//fmt.Print(sortedArrayToBST([]int{-10, -3, 0, 5, 9}))
 	//fmt.Print(isBalanced(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}, Right: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}}))
 	//fmt.Print(minDepth(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}, Right: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}}))
-	fmt.Print(hasPathSum(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}, Right: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}}, 6))
+	//fmt.Print(hasPathSum(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 4}}, Right: &TreeNode{Val: 7, Left: &TreeNode{Val: 3}}}, 6))
+	fmt.Print(generate(5))
 }
