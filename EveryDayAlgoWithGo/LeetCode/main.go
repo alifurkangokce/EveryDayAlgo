@@ -35,5 +35,6 @@ func main() {
 	//fmt.Print(isBalanced(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}, Right: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}}))
 	//fmt.Print(minDepth(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}, Right: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}}))
 	//fmt.Print(hasPathSum(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 4}}, Right: &TreeNode{Val: 7, Left: &TreeNode{Val: 3}}}, 6))
-	fmt.Print(generate(5))
+	//fmt.Print(generate(5))
+	fmt.Print(getRow(3))
 }
