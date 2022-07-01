@@ -1,8 +1,6 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 type TreeNode struct {
 	Val   int
@@ -37,5 +35,6 @@ func main() {
 	//fmt.Print(hasPathSum(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 4}}, Right: &TreeNode{Val: 7, Left: &TreeNode{Val: 3}}}, 6))
 	//fmt.Print(generate(5))
 	//fmt.Print(getRow(3))
-	fmt.Print(maxProfit([]int{7, 6, 4, 3, 1}))
+	//fmt.Print(maxProfit([]int{7, 6, 4, 3, 1}))
+	fmt.Print(isPalindromeString("A man, a plan, a canal: Panama"))
 }
