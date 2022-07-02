@@ -36,5 +36,6 @@ func main() {
 	//fmt.Print(generate(5))
 	//fmt.Print(getRow(3))
 	//fmt.Print(maxProfit([]int{7, 6, 4, 3, 1}))
-	fmt.Print(isPalindromeString("A man, a plan, a canal: Panama"))
+	//fmt.Print(isPalindromeString("A man, a plan, a canal: Panama"))
+	fmt.Print(singleNumber([]int{1, 2, 1}))
 }
