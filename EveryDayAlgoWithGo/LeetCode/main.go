@@ -37,5 +37,6 @@ func main() {
 	//fmt.Print(getRow(3))
 	//fmt.Print(maxProfit([]int{7, 6, 4, 3, 1}))
 	//fmt.Print(isPalindromeString("A man, a plan, a canal: Panama"))
-	fmt.Print(singleNumber([]int{1, 2, 1}))
+	//fmt.Print(singleNumber([]int{1, 2, 1}))
+	fmt.Print(hasCycle(&ListNode{Val: 1, Next: &ListNode{Val: 2}}))
 }
