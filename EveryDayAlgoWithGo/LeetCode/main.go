@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -39,5 +37,6 @@ func main() {
 	//fmt.Print(isPalindromeString("A man, a plan, a canal: Panama"))
 	//fmt.Print(singleNumber([]int{1, 2, 1}))
 	//fmt.Print(hasCycle(&ListNode{Val: 1, Next: &ListNode{Val: 2}}))
-	fmt.Print(preorderTraversal(&TreeNode{Val: 1, Right: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}}))
+	//fmt.Print(preorderTraversal(&TreeNode{Val: 1, Right: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}}))
+	//fmt.Print(postorderTraversal(&TreeNode{Val: 1, Right: &TreeNode{Val: 2, Left: &TreeNode{Val: 3}}}))
 }
