@@ -1,8 +1,6 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 type TreeNode struct {
 	Val   int
@@ -46,5 +44,6 @@ func main() {
 	//fmt.Print(getIntersectionNode(&ListNode{Val: 4, Next: &ListNode{Val: 1, Next: &ListNode{Val: 8, Next: &ListNode{Val: 4, Next: &ListNode{Val: 5, Next: nil}}}}}, &ListNode{Val: 6, Next: &ListNode{Val: 1, Next: &ListNode{Val: 8, Next: &ListNode{Val: 4, Next: &ListNode{Val: 5, Next: nil}}}}}))
 	//fmt.Print(convertToTitle(701))
 	//fmt.Print(titleToNumber("AB"))
-	fmt.Print(reverseBits(43261596))
+	//fmt.Print(reverseBits(43261596))
+	fmt.Print(hammingWeight(11))
 }
