@@ -45,5 +45,6 @@ func main() {
 	//fmt.Print(convertToTitle(701))
 	//fmt.Print(titleToNumber("AB"))
 	//fmt.Print(reverseBits(43261596))
-	fmt.Print(hammingWeight(11))
+	//fmt.Print(hammingWeight(11))
+	fmt.Print(isHappy(19))
 }
