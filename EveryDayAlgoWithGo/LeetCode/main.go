@@ -46,5 +46,6 @@ func main() {
 	//fmt.Print(titleToNumber("AB"))
 	//fmt.Print(reverseBits(43261596))
 	//fmt.Print(hammingWeight(11))
-	fmt.Print(isHappy(19))
+	//fmt.Print(isHappy(19))
+	fmt.Print(removeElements(&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 6, Next: nil}}}, 6))
 }
