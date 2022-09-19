@@ -7,6 +7,10 @@ type TreeNode struct {
 	Left  *TreeNode
 	Right *TreeNode
 }
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
 
 func main() {
 	//fmt.Print(TwoSum([]int{3, 2, 4}, 6))
@@ -48,5 +52,7 @@ func main() {
 	//fmt.Print(hammingWeight(11))
 	//fmt.Print(isHappy(19))
 	//fmt.Print(removeElements(&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 6, Next: nil}}}, 6))
-	fmt.Print(isIsomorphic("paper", "title"))
+	//fmt.Print(isIsomorphic("paper", "title"))
+	//fmt.Print(reverseList(&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 6, Next: nil}}}))
+	fmt.Print(containsDuplicate([]int{1, 2, 3, 2}))
 }
