@@ -54,5 +54,6 @@ func main() {
 	//fmt.Print(removeElements(&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 6, Next: nil}}}, 6))
 	//fmt.Print(isIsomorphic("paper", "title"))
 	//fmt.Print(reverseList(&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 6, Next: nil}}}))
-	fmt.Print(containsDuplicate([]int{1, 2, 3, 2}))
+	//fmt.Print(containsDuplicate([]int{1, 2, 3, 2}))
+	fmt.Print(containsNearbyDuplicate([]int{1, 0, 1, 1}, 1))
 }
