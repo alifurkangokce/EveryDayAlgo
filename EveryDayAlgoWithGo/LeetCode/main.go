@@ -55,5 +55,11 @@ func main() {
 	//fmt.Print(isIsomorphic("paper", "title"))
 	//fmt.Print(reverseList(&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 6, Next: nil}}}))
 	//fmt.Print(containsDuplicate([]int{1, 2, 3, 2}))
-	fmt.Print(containsNearbyDuplicate([]int{1, 0, 1, 1}, 1))
+	//fmt.Print(containsNearbyDuplicate([]int{1, 0, 1, 1}, 1))
+	x := MyStack{}
+	x.Push(1)
+	x.Push(2)
+	fmt.Println(x.Top())
+	fmt.Println(x.Pop())
+	fmt.Println(x.Empty())
 }
