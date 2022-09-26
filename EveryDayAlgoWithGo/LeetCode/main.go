@@ -62,5 +62,6 @@ func main() {
 	// fmt.Println(x.Top())
 	// fmt.Println(x.Pop())
 	// fmt.Println(x.Empty())
-	fmt.Print(invertTree(&TreeNode{Val: 4, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 1}, Right: &TreeNode{Val: 3}}, Right: &TreeNode{Val: 7, Left: &TreeNode{Val: 6}, Right: &TreeNode{Val: 9}}}))
+	//fmt.Print(invertTree(&TreeNode{Val: 4, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 1}, Right: &TreeNode{Val: 3}}, Right: &TreeNode{Val: 7, Left: &TreeNode{Val: 6}, Right: &TreeNode{Val: 9}}}))
+	fmt.Print(summaryRanges([]int{0, 1, 2, 4, 5, 7}))
 }
