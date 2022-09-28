@@ -4,7 +4,7 @@ type MyStack struct {
 	queue []int
 }
 
-func Constructor() MyStack {
+func Constructors() MyStack {
 	return MyStack{[]int{}}
 }
 func (this *MyStack) Push(x int) {

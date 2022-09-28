@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -64,5 +62,13 @@ func main() {
 	// fmt.Println(x.Empty())
 	//fmt.Print(invertTree(&TreeNode{Val: 4, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 1}, Right: &TreeNode{Val: 3}}, Right: &TreeNode{Val: 7, Left: &TreeNode{Val: 6}, Right: &TreeNode{Val: 9}}}))
 	//fmt.Print(summaryRanges([]int{0, 1, 2, 4, 5, 7}))
-	fmt.Print(isPowerOfTwo(2))
+	//fmt.Print(isPowerOfTwo(2))
+
+	x := MyQueue{}
+	x.Push(1)
+	x.Push(2)
+	x.Peek()
+	x.Pop()
+	x.Empty()
+
 }
