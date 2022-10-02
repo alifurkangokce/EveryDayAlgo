@@ -72,5 +72,6 @@ func main() {
 	// x.Peek()
 	// x.Pop()
 	// x.Empty()
-	fmt.Print(isPalindromeLinked(&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 2, Next: &ListNode{Val: 1, Next: nil}}}}))
+	//fmt.Print(isPalindromeLinked(&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 2, Next: &ListNode{Val: 1, Next: nil}}}}))
+	fmt.Print(isAnagram("rat", "car"))
 }
