@@ -74,5 +74,6 @@ func main() {
 	// x.Empty()
 	//fmt.Print(isPalindromeLinked(&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 2, Next: &ListNode{Val: 1, Next: nil}}}}))
 	//fmt.Print(isAnagram("rat", "car"))
-	fmt.Print(binaryTreePaths(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: nil, Right: &TreeNode{Val: 5}}, Right: &TreeNode{Val: 3}}))
+	//fmt.Print(binaryTreePaths(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: nil, Right: &TreeNode{Val: 5}}, Right: &TreeNode{Val: 3}}))
+	fmt.Print(addDigits(38))
 }
