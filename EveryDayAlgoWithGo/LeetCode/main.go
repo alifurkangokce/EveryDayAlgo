@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -77,5 +75,6 @@ func main() {
 	//fmt.Print(binaryTreePaths(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: nil, Right: &TreeNode{Val: 5}}, Right: &TreeNode{Val: 3}}))
 	//fmt.Print(addDigits(38))
 	//fmt.Print(isUgly(14))
-	fmt.Print(missingNumber([]int{9, 6, 4, 2, 3, 5, 7, 0, 1}))
+	//fmt.Print(missingNumber([]int{9, 6, 4, 2, 3, 5, 7, 0, 1}))
+	moveZeroes([]int{0, 1, 0, 3, 12})
 }
