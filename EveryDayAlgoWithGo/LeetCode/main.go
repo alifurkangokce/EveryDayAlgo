@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -76,5 +78,6 @@ func main() {
 	//fmt.Print(addDigits(38))
 	//fmt.Print(isUgly(14))
 	//fmt.Print(missingNumber([]int{9, 6, 4, 2, 3, 5, 7, 0, 1}))
-	moveZeroes([]int{0, 1, 0, 3, 12})
+	//moveZeroes([]int{0, 1, 0, 3, 12})
+	fmt.Print(wordPattern("abba", "dog dog dog dog"))
 }
