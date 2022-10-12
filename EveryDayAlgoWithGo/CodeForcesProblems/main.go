@@ -6,4 +6,5 @@ func main() {
 	//wayTooLong()
 	//team()
 	//nextRound()
+	//BitPlus()
 }
