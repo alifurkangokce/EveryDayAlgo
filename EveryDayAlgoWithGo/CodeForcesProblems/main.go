@@ -7,4 +7,7 @@ func main() {
 	//team()
 	//nextRound()
 	//BitPlus()
+	//BeautifulMatrix()
+	//PetyaStrings()
+	HelpFulMath()
 }
