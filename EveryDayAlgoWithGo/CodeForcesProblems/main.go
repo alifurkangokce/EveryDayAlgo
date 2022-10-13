@@ -11,5 +11,6 @@ func main() {
 	//PetyaStrings()
 	//HelpFulMath()
 	//wordCapitalization()
-	BoyOrGirl()
+	//BoyOrGirl()
+	StonesOnTheTable()
 }
