@@ -9,5 +9,7 @@ func main() {
 	//BitPlus()
 	//BeautifulMatrix()
 	//PetyaStrings()
-	HelpFulMath()
+	//HelpFulMath()
+	//wordCapitalization()
+	BoyOrGirl()
 }
