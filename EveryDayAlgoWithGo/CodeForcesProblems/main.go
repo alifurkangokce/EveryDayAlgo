@@ -13,5 +13,6 @@ func main() {
 	//wordCapitalization()
 	//BoyOrGirl()
 	//StonesOnTheTable()
-	BearAndBigBrother()
+	//BearAndBigBrother()
+	SoldierAndBananas()
 }
