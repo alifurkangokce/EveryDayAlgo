@@ -12,5 +12,6 @@ func main() {
 	//HelpFulMath()
 	//wordCapitalization()
 	//BoyOrGirl()
-	StonesOnTheTable()
+	//StonesOnTheTable()
+	BearAndBigBrother()
 }
