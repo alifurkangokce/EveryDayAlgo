@@ -79,5 +79,6 @@ func main() {
 	//fmt.Print(isUgly(14))
 	//fmt.Print(missingNumber([]int{9, 6, 4, 2, 3, 5, 7, 0, 1}))
 	//moveZeroes([]int{0, 1, 0, 3, 12})
-	fmt.Print(wordPattern("abba", "dog dog dog dog"))
+	//fmt.Print(wordPattern("abba", "dog dog dog dog"))
+	fmt.Print(canWinNim(4))
 }
