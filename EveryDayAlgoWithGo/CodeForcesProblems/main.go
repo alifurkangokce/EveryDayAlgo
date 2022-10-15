@@ -14,5 +14,7 @@ func main() {
 	//BoyOrGirl()
 	//StonesOnTheTable()
 	//BearAndBigBrother()
-	SoldierAndBananas()
+	//SoldierAndBananas()
+	// Elephant()
+	Word()
 }
