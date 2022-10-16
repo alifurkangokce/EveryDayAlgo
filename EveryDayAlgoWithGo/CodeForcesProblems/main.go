@@ -16,5 +16,6 @@ func main() {
 	//BearAndBigBrother()
 	//SoldierAndBananas()
 	// Elephant()
-	Word()
+	//Word()
+	WrongSubtraction()
 }
