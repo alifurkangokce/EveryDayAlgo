@@ -82,5 +82,6 @@ func main() {
 	//fmt.Print(wordPattern("abba", "dog dog dog dog"))
 	//fmt.Print(canWinNim(4))
 	//fmt.Print(isPowerOfThree(27))
-	fmt.Print(countBits(5))
+	//fmt.Print(countBits(5))
+	fmt.Print(isPowerOfFour(11))
 }
