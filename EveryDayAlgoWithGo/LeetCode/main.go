@@ -81,5 +81,6 @@ func main() {
 	//moveZeroes([]int{0, 1, 0, 3, 12})
 	//fmt.Print(wordPattern("abba", "dog dog dog dog"))
 	//fmt.Print(canWinNim(4))
-	fmt.Print(isPowerOfThree(27))
+	//fmt.Print(isPowerOfThree(27))
+	fmt.Print(countBits(5))
 }
