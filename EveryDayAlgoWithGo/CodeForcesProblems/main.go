@@ -17,5 +17,6 @@ func main() {
 	//SoldierAndBananas()
 	// Elephant()
 	//Word()
-	WrongSubtraction()
+	//WrongSubtraction()
+	NearlyLuckNumber()
 }
