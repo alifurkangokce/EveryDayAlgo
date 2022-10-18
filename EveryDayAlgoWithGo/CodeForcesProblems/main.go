@@ -18,5 +18,6 @@ func main() {
 	// Elephant()
 	//Word()
 	//WrongSubtraction()
-	NearlyLuckNumber()
+	//NearlyLuckNumber()
+	Tram()
 }
