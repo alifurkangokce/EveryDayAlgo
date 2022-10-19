@@ -19,5 +19,6 @@ func main() {
 	//Word()
 	//WrongSubtraction()
 	//NearlyLuckNumber()
-	Tram()
+	//Tram()
+	QueueAtTheSchool()
 }
