@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -82,5 +84,6 @@ func main() {
 	//fmt.Print(isPowerOfThree(27))
 	//fmt.Print(countBits(5))
 	//fmt.Print(isPowerOfFour(11))
-	reverseString([]byte{'A', ' ', 'm', 'a', 'n', ',', ' '})
+	//reverseString([]byte{'A', ' ', 'm', 'a', 'n', ',', ' '})
+	fmt.Print(reverseVowels("hello"))
 }
