@@ -20,5 +20,6 @@ func main() {
 	//WrongSubtraction()
 	//NearlyLuckNumber()
 	//Tram()
-	QueueAtTheSchool()
+	//QueueAtTheSchool()
+	AntonAndDanik()
 }
