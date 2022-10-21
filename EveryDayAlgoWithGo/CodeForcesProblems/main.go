@@ -21,5 +21,6 @@ func main() {
 	//NearlyLuckNumber()
 	//Tram()
 	//QueueAtTheSchool()
-	AntonAndDanik()
+	//AntonAndDanik()
+	Translation()
 }
