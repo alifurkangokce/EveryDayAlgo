@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -86,5 +84,6 @@ func main() {
 	//fmt.Print(isPowerOfFour(11))
 	//reverseString([]byte{'A', ' ', 'm', 'a', 'n', ',', ' '})
 	//fmt.Print(reverseVowels("hello"))
-	fmt.Print(intersection([]int{4, 9, 5}, []int{9, 4, 9, 8, 4}))
+	//fmt.Print(intersection([]int{4, 9, 5}, []int{9, 4, 9, 8, 4}))
+	//fmt.Print(intersection2([]int{4, 9, 5}, []int{9, 4, 9, 8, 4}))
 }
