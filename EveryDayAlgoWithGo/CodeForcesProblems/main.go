@@ -22,5 +22,6 @@ func main() {
 	//Tram()
 	//QueueAtTheSchool()
 	//AntonAndDanik()
-	Translation()
+	//Translation()
+	BeautifulYear()
 }
