@@ -23,5 +23,7 @@ func main() {
 	//QueueAtTheSchool()
 	//AntonAndDanik()
 	//Translation()
-	BeautifulYear()
+	//BeautifulYear()
+	//VanyaAndFence()
+	InSearchOfAnEasyProblem()
 }
