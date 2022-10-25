@@ -25,5 +25,6 @@ func main() {
 	//Translation()
 	//BeautifulYear()
 	//VanyaAndFence()
-	InSearchOfAnEasyProblem()
+	//InSearchOfAnEasyProblem()
+	GeorgeAndAccommodation()
 }
