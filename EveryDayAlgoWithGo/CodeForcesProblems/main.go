@@ -27,5 +27,6 @@ func main() {
 	//VanyaAndFence()
 	//InSearchOfAnEasyProblem()
 	//GeorgeAndAccommodation()
-	Presents()
+	//Presents()
+	Magnets()
 }
