@@ -90,5 +90,6 @@ func main() {
 	//fmt.Print(intersection2([]int{4, 9, 5}, []int{9, 4, 9, 8, 4}))
 	//fmt.Print(isPerfectSquare(25))
 	//fmt.Print(canConstruct("a", "aab"))
-	fmt.Print(firstUniqChar("aabb"))
+	//fmt.Print(firstUniqChar("aabb"))
+	fmt.Print(findTheDifference("", "y"))
 }
