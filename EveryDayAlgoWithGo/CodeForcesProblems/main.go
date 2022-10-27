@@ -28,5 +28,6 @@ func main() {
 	//InSearchOfAnEasyProblem()
 	//GeorgeAndAccommodation()
 	//Presents()
-	Magnets()
+	//Magnets()
+	CalculatingFunction()
 }
