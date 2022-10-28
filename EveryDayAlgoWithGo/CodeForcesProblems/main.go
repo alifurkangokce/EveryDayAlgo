@@ -29,5 +29,7 @@ func main() {
 	//GeorgeAndAccommodation()
 	//Presents()
 	//Magnets()
-	CalculatingFunction()
+	//CalculatingFunction()
+	//Drinks()
+	UltraFastMathematician()
 }
