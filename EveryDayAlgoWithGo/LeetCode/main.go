@@ -91,5 +91,6 @@ func main() {
 	//fmt.Print(isPerfectSquare(25))
 	//fmt.Print(canConstruct("a", "aab"))
 	//fmt.Print(firstUniqChar("aabb"))
-	fmt.Print(findTheDifference("", "y"))
+	//fmt.Print(findTheDifference("", "y"))
+	fmt.Print(isSubsequence("abc", "ahbgdc"))
 }
