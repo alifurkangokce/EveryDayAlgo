@@ -31,5 +31,6 @@ func main() {
 	//Magnets()
 	//CalculatingFunction()
 	//Drinks()
-	UltraFastMathematician()
+	//UltraFastMathematician()
+	Hulk()
 }
