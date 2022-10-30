@@ -32,5 +32,6 @@ func main() {
 	//CalculatingFunction()
 	//Drinks()
 	//UltraFastMathematician()
-	Hulk()
+	//Hulk()
+	IsYourHorsesShoe()
 }
