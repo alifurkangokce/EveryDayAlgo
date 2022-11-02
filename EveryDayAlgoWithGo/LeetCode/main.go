@@ -97,5 +97,6 @@ func main() {
 	//fmt.Print(sumOfLeftLeaves(&TreeNode{Val: 3, Left: &TreeNode{Val: 9, Left: nil, Right: nil}, Right: &TreeNode{Val: 20, Left: &TreeNode{Val: 15, Left: nil, Right: nil}, Right: &TreeNode{Val: 7, Left: nil, Right: nil}}}))
 	//fmt.Print(sumOfLeftLeaves(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 4, Left: nil, Right: nil}, Right: &TreeNode{Val: 5, Left: nil, Right: nil}}, Right: &TreeNode{Val: 3, Left: nil, Right: nil}}))
 	//fmt.Print(toHex(26))
-	fmt.Print(longestPalindrome("abccccdd"))
+	//fmt.Print(longestPalindrome("abccccdd"))
+	fmt.Print(fizzBuzz(15))
 }
