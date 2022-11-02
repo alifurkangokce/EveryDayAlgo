@@ -35,5 +35,6 @@ func main() {
 	//Hulk()
 	//IsYourHorsesShoe()
 	//IWannaBeTheGuy()
-	ArrivalOfTheGeneral()
+	//ArrivalOfTheGeneral()
+	InsomniaCure()
 }
