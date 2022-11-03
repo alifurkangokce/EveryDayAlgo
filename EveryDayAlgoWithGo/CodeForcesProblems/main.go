@@ -37,5 +37,5 @@ func main() {
 	//IWannaBeTheGuy()
 	//ArrivalOfTheGeneral()
 	//InsomniaCure()
-
+	DivisibilityProblem()
 }
