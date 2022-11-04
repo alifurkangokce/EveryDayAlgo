@@ -99,5 +99,6 @@ func main() {
 	//fmt.Print(toHex(26))
 	//fmt.Print(longestPalindrome("abccccdd"))
 	//fmt.Print(fizzBuzz(15))
-	fmt.Print(thirdMax([]int{1, 2}))
+	//fmt.Print(thirdMax([]int{1, 2}))
+	fmt.Print(addStrings("1", "9"))
 }
