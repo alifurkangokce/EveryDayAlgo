@@ -38,5 +38,6 @@ func main() {
 	//ArrivalOfTheGeneral()
 	//InsomniaCure()
 	//DivisibilityProblem()
-	Pangram()
+	//Pangram()
+	AntonAndLetters()
 }
