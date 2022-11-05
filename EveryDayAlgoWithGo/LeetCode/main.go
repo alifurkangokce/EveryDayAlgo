@@ -101,5 +101,6 @@ func main() {
 	//fmt.Print(fizzBuzz(15))
 	//fmt.Print(thirdMax([]int{1, 2}))
 	//fmt.Print(addStrings("1", "9"))
-	fmt.Print(countSegments("Of all the gin joints in all the towns in all the world,   "))
+	//fmt.Print(countSegments("Of all the gin joints in all the towns in all the world,   "))
+	fmt.Print(arrangeCoins(9))
 }
