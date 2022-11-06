@@ -39,5 +39,6 @@ func main() {
 	//InsomniaCure()
 	//DivisibilityProblem()
 	//Pangram()
-	AntonAndLetters()
+	//AntonAndLetters()
+	Games()
 }
