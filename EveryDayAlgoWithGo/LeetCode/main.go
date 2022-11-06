@@ -102,5 +102,6 @@ func main() {
 	//fmt.Print(thirdMax([]int{1, 2}))
 	//fmt.Print(addStrings("1", "9"))
 	//fmt.Print(countSegments("Of all the gin joints in all the towns in all the world,   "))
-	fmt.Print(arrangeCoins(9))
+	//fmt.Print(arrangeCoins(9))
+	fmt.Print(findDisappearedNumbers([]int{4, 3, 2, 7, 8, 2, 3, 1}))
 }
