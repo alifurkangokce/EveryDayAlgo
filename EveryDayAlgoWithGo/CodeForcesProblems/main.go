@@ -40,5 +40,6 @@ func main() {
 	//DivisibilityProblem()
 	//Pangram()
 	//AntonAndLetters()
-	Games()
+	//Games()
+	HitTheLottery()
 }
