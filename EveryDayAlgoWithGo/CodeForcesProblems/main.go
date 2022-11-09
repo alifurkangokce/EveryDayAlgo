@@ -41,5 +41,7 @@ func main() {
 	//Pangram()
 	//AntonAndLetters()
 	//Games()
-	HitTheLottery()
+	//HitTheLottery()
+	//AntonAndPolyhedrons()
+	AmusingJoke()
 }
