@@ -43,5 +43,6 @@ func main() {
 	//Games()
 	//HitTheLottery()
 	//AntonAndPolyhedrons()
-	AmusingJoke()
+	//AmusingJoke()
+	CandiesAndTwoSisters()
 }
