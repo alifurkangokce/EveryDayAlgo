@@ -108,6 +108,7 @@ func main() {
 	//fmt.Print(repeatedSubstringPattern("abcabcabcabc"))
 	//fmt.Print(hammingDistance(1, 4))
 	//fmt.Print(islandPerimeter([][]int{{0, 1, 0, 0}, {1, 1, 1, 0}, {0, 1, 0, 0}, {1, 1, 0, 0}}))
-	fmt.Print(findComplement(5))
+	//fmt.Print(findComplement(5))
+	fmt.Print(findMaxConsecutiveOnes([]int{1, 1, 0, 1, 1, 1}))
 
 }
