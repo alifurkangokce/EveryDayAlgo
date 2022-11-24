@@ -45,5 +45,6 @@ func main() {
 	//AntonAndPolyhedrons()
 	//AmusingJoke()
 	//CandiesAndTwoSisters()
-	ILoveUserName()
+	//ILoveUserName()
+	PoliceRecruits()
 }
