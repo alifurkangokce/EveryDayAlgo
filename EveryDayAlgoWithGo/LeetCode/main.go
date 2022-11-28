@@ -111,6 +111,6 @@ func main() {
 	//fmt.Print(findComplement(5))
 	//fmt.Print(findMaxConsecutiveOnes([]int{1, 1, 0, 1, 1, 1}))
 	//fmt.Print(constructRectangle(122122))
-	fmt.Print(findPoisonedDuration([]int{1, 4}, 2))
-
+	//fmt.Print(findPoisonedDuration([]int{1, 4}, 2))
+	fmt.Print(nextGreaterElement([]int{2, 4}, []int{1, 2, 3, 4}))
 }
