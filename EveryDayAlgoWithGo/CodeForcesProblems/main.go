@@ -47,5 +47,6 @@ func main() {
 	//CandiesAndTwoSisters()
 	//ILoveUserName()
 	//PoliceRecruits()
-	NewYearAndHurry()
+	//NewYearAndHurry()
+	VasyaTheHipster()
 }
