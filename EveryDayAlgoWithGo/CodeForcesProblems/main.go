@@ -48,5 +48,6 @@ func main() {
 	//ILoveUserName()
 	//PoliceRecruits()
 	//NewYearAndHurry()
-	VasyaTheHipster()
+	//VasyaTheHipster()
+	SumofRoundNumbers()
 }
