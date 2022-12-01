@@ -113,5 +113,6 @@ func main() {
 	//fmt.Print(constructRectangle(122122))
 	//fmt.Print(findPoisonedDuration([]int{1, 4}, 2))
 	//fmt.Print(nextGreaterElement([]int{2, 4}, []int{1, 2, 3, 4}))
-	fmt.Print(findWords([]string{"adsdf", "sfd"}))
+	//fmt.Print(findWords([]string{"adsdf", "sfd"}))
+	fmt.Print(findMode(&TreeNode{Val: 1, Left: nil, Right: &TreeNode{Val: 1, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 2}}}))
 }
