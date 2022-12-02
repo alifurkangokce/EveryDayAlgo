@@ -49,5 +49,6 @@ func main() {
 	//PoliceRecruits()
 	//NewYearAndHurry()
 	//VasyaTheHipster()
-	SumofRoundNumbers()
+	//SumofRoundNumbers()
+	BuyAShovel()
 }
