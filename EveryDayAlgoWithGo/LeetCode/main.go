@@ -117,5 +117,6 @@ func main() {
 	//fmt.Print(findMode(&TreeNode{Val: 1, Left: nil, Right: &TreeNode{Val: 1, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 2}}}))
 	//fmt.Print(convertToBase7(-7))
 	//fmt.Print(findRelativeRanks([]int{5, 4, 3, 2, 1}))
-	fmt.Print(checkPerfectNumber(28))
+	//fmt.Print(checkPerfectNumber(28))
+	fmt.Print(fib(4))
 }
