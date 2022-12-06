@@ -51,5 +51,6 @@ func main() {
 	//VasyaTheHipster()
 	//SumofRoundNumbers()
 	//BuyAShovel()
-	TheNewYearMeetingFriends()
+	//TheNewYearMeetingFriends()
+	RestoringThreeNumbers()
 }
