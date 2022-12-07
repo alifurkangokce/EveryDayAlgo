@@ -118,5 +118,6 @@ func main() {
 	//fmt.Print(convertToBase7(-7))
 	//fmt.Print(findRelativeRanks([]int{5, 4, 3, 2, 1}))
 	//fmt.Print(checkPerfectNumber(28))
-	fmt.Print(fib(4))
+	//fmt.Print(fib(4))
+	fmt.Print(detectCapitalUse("mL"))
 }
