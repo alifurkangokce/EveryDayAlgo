@@ -52,5 +52,6 @@ func main() {
 	//SumofRoundNumbers()
 	//BuyAShovel()
 	//TheNewYearMeetingFriends()
-	RestoringThreeNumbers()
+	//RestoringThreeNumbers()
+	YetAnotherTwoIntegersProblem()
 }
