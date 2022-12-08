@@ -53,5 +53,6 @@ func main() {
 	//BuyAShovel()
 	//TheNewYearMeetingFriends()
 	//RestoringThreeNumbers()
-	YetAnotherTwoIntegersProblem()
+	//YetAnotherTwoIntegersProblem()
+	RemoveSmallest()
 }
