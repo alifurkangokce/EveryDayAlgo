@@ -119,5 +119,6 @@ func main() {
 	//fmt.Print(findRelativeRanks([]int{5, 4, 3, 2, 1}))
 	//fmt.Print(checkPerfectNumber(28))
 	//fmt.Print(fib(4))
-	fmt.Print(detectCapitalUse("mL"))
+	//fmt.Print(detectCapitalUse("mL"))
+	fmt.Print(getMinimumDifference(&TreeNode{Val: 4, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 6}}))
 }
