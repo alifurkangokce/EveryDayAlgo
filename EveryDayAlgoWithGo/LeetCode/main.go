@@ -120,5 +120,7 @@ func main() {
 	//fmt.Print(checkPerfectNumber(28))
 	//fmt.Print(fib(4))
 	//fmt.Print(detectCapitalUse("mL"))
-	fmt.Print(getMinimumDifference(&TreeNode{Val: 4, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 6}}))
+	//fmt.Print(getMinimumDifference(&TreeNode{Val: 4, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 6}}))
+	fmt.Print(reverseStr("abcdefg", 2))
+
 }
