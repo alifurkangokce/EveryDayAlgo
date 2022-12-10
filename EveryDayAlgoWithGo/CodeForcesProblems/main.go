@@ -54,5 +54,6 @@ func main() {
 	//TheNewYearMeetingFriends()
 	//RestoringThreeNumbers()
 	//YetAnotherTwoIntegersProblem()
-	RemoveSmallest()
+	//RemoveSmallest()
+	DesignTutorialLearnFromMath()
 }
