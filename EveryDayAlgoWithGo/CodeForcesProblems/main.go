@@ -55,5 +55,6 @@ func main() {
 	//RestoringThreeNumbers()
 	//YetAnotherTwoIntegersProblem()
 	//RemoveSmallest()
-	DesignTutorialLearnFromMath()
+	//DesignTutorialLearnFromMath()
+	SoftDrinking()
 }
