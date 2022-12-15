@@ -59,4 +59,5 @@ func main() {
 	//SoftDrinking()
 	//CoosingTeams()
 	//ShortSubstring()
+	BalancedArray()
 }
