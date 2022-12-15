@@ -58,5 +58,5 @@ func main() {
 	//DesignTutorialLearnFromMath()
 	//SoftDrinking()
 	//CoosingTeams()
-	ShortSubstring()
+	//ShortSubstring()
 }
