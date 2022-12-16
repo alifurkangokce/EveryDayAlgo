@@ -125,6 +125,7 @@ func main() {
 	//fmt.Print(diameterOfBinaryTree(&TreeNode{Val: 1, Left: &TreeNode{Val: 2}}))
 	//fmt.Print(checkRecord("PPALLP"))
 	//fmt.Print(reverseWords("Let's take"))
-	fmt.Print(maxDepthn(&Node{Val: 1, Children: []*Node{&Node{Val: 3, Children: []*Node{&Node{Val: 5}, &Node{Val: 6}}}, &Node{Val: 2}, &Node{Val: 4}}}))
+	//fmt.Print(maxDepthn(&Node{Val: 1, Children: []*Node{&Node{Val: 3, Children: []*Node{&Node{Val: 5}, &Node{Val: 6}}}, &Node{Val: 2}, &Node{Val: 4}}}))
+	fmt.Print(arrayPairSum([]int{6, 2, 6, 5, 1, 2}))
 
 }
