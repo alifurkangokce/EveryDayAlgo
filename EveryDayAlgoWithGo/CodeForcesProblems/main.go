@@ -59,5 +59,6 @@ func main() {
 	//SoftDrinking()
 	//CoosingTeams()
 	//ShortSubstring()
-	BalancedArray()
+	//BalancedArray()
+	HolidayOfEquality()
 }
