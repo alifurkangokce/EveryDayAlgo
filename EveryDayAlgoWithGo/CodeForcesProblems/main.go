@@ -60,5 +60,6 @@ func main() {
 	//CoosingTeams()
 	//ShortSubstring()
 	//BalancedArray()
-	HolidayOfEquality()
+	//HolidayOfEquality()
+	TeamOlympiad()
 }
