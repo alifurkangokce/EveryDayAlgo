@@ -61,5 +61,6 @@ func main() {
 	//ShortSubstring()
 	//BalancedArray()
 	//HolidayOfEquality()
-	TeamOlympiad()
+	//TeamOlympiad()
+	SpyDetected()
 }
