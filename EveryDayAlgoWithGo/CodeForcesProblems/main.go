@@ -62,5 +62,6 @@ func main() {
 	//BalancedArray()
 	//HolidayOfEquality()
 	//TeamOlympiad()
-	SpyDetected()
+	//SpyDetected()
+	SerejaAndDima()
 }
