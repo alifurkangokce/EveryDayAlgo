@@ -63,5 +63,6 @@ func main() {
 	//HolidayOfEquality()
 	//TeamOlympiad()
 	//SpyDetected()
-	SerejaAndDima()
+	//SerejaAndDima()
+	DislikeOfThrees()
 }
