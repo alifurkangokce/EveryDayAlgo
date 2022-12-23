@@ -130,6 +130,7 @@ func main() {
 	//fmt.Print(findTilt(&TreeNode{Val: 1, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 3}}))
 	//fmt.Print(matrixReshape([][]int{[]int{1, 2}, []int{3, 4}}, 2, 4))
 	//fmt.Print(isSubtree(&TreeNode{Val: 3, Left: &TreeNode{Val: 5, Right: &TreeNode{Val: 2}}}, &TreeNode{Val: 3, Left: &TreeNode{Val: 4}}))
-	fmt.Print(distributeCandies([]int{6, 6, 6, 6}))
+	//fmt.Print(distributeCandies([]int{6, 6, 6, 6}))
+	fmt.Print(preorder(&Node{Val: 1, Children: []*Node{&Node{Val: 3, Children: []*Node{&Node{Val: 5}, &Node{Val: 6}}}, &Node{Val: 2}, &Node{Val: 4}}}))
 
 }
