@@ -64,5 +64,6 @@ func main() {
 	//TeamOlympiad()
 	//SpyDetected()
 	//SerejaAndDima()
-	DislikeOfThrees()
+	//DislikeOfThrees()
+	Borze()
 }
