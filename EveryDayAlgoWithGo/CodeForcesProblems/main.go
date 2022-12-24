@@ -65,5 +65,6 @@ func main() {
 	//SpyDetected()
 	//SerejaAndDima()
 	//DislikeOfThrees()
-	Borze()
+	//Borze()
+	MishkaandGame()
 }
