@@ -66,5 +66,6 @@ func main() {
 	//SerejaAndDima()
 	//DislikeOfThrees()
 	//Borze()
-	MishkaandGame()
+	//MishkaandGame()
+	RequiredRemainder()
 }
