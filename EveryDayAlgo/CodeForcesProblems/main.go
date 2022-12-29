@@ -68,5 +68,6 @@ func main() {
 	//Borze()
 	//MishkaandGame()
 	//RequiredRemainder()
-	AgainTwentyFive()
+	//AgainTwentyFive()
+	EvenArray()
 }
