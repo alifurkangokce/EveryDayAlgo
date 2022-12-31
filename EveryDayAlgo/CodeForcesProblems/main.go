@@ -69,5 +69,6 @@ func main() {
 	//MishkaandGame()
 	//RequiredRemainder()
 	//AgainTwentyFive()
-	EvenArray()
+	//EvenArray()
+	DoNotBeDistracted()
 }
