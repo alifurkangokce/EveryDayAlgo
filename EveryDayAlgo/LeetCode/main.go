@@ -134,6 +134,7 @@ func main() {
 	//fmt.Print(preorder(&Node{Val: 1, Children: []*Node{&Node{Val: 3, Children: []*Node{&Node{Val: 5}, &Node{Val: 6}}}, &Node{Val: 2}, &Node{Val: 4}}}))
 	//fmt.Print(postorder(&Node{Val: 1, Children: []*Node{&Node{Val: 3, Children: []*Node{&Node{Val: 5}, &Node{Val: 6}}}, &Node{Val: 2}, &Node{Val: 4}}}))
 	//fmt.Print(findLHS([]int{1, 3, 2, 2, 5, 2, 3, 7}))
-	fmt.Print(maxCount(3, 3, [][]int{[]int{2, 2}, []int{3, 3}}))
+	//fmt.Print(maxCount(3, 3, [][]int{[]int{2, 2}, []int{3, 3}}))
+	fmt.Print(findRestaurant([]string{"happy", "sad", "good"}, []string{"sad", "happy", "good"}))
 
 }
