@@ -70,5 +70,6 @@ func main() {
 	//RequiredRemainder()
 	//AgainTwentyFive()
 	//EvenArray()
-	DoNotBeDistracted()
+	//DoNotBeDistracted()
+	TwoArraysAndSwaps()
 }
