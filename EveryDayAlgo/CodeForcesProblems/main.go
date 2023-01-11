@@ -72,5 +72,6 @@ func main() {
 	//EvenArray()
 	//DoNotBeDistracted()
 	//TwoArraysAndSwaps()
-	PlusOneOnTheSubset()
+	//PlusOneOnTheSubset()
+	MinimalSquare()
 }
