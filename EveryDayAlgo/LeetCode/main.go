@@ -137,6 +137,7 @@ func main() {
 	//fmt.Print(maxCount(3, 3, [][]int{[]int{2, 2}, []int{3, 3}}))
 	//fmt.Print(findRestaurant([]string{"happy", "sad", "good"}, []string{"sad", "happy", "good"}))
 	//fmt.Print(canPlaceFlowers([]int{1, 0, 0, 0, 1}, 2))
-	fmt.Print(tree2str(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 4}}, Right: &TreeNode{Val: 3}}))
+	//fmt.Print(tree2str(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 4}}, Right: &TreeNode{Val: 3}}))
+	fmt.Print(mergeTrees(&TreeNode{Val: 1}, &TreeNode{Val: 2}))
 
 }
