@@ -73,5 +73,6 @@ func main() {
 	//DoNotBeDistracted()
 	//TwoArraysAndSwaps()
 	//PlusOneOnTheSubset()
-	MinimalSquare()
+	//MinimalSquare()
+	BoringApartments()
 }
