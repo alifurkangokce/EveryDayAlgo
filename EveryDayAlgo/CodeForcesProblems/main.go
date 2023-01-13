@@ -74,5 +74,6 @@ func main() {
 	//TwoArraysAndSwaps()
 	//PlusOneOnTheSubset()
 	//MinimalSquare()
-	BoringApartments()
+	//BoringApartments()
+	BlackSquare()
 }
