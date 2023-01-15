@@ -139,6 +139,6 @@ func main() {
 	//fmt.Print(canPlaceFlowers([]int{1, 0, 0, 0, 1}, 2))
 	//fmt.Print(tree2str(&TreeNode{Val: 1, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 4}}, Right: &TreeNode{Val: 3}}))
 	//fmt.Print(mergeTrees(&TreeNode{Val: 1}, &TreeNode{Val: 2}))
-	fmt.Print(maximumProduct([]int{3, 2, 1, -1, -2, -3, -4}))
-
+	//fmt.Print(maximumProduct([]int{3, 2, 1, -1, -2, -3, -4}))
+	fmt.Print(averageOfLevels(&TreeNode{Val: 3, Left: &TreeNode{Val: 9}, Right: &TreeNode{Val: 20}}))
 }
