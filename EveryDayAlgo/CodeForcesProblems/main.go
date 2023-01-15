@@ -75,5 +75,6 @@ func main() {
 	//PlusOneOnTheSubset()
 	//MinimalSquare()
 	//BoringApartments()
-	BlackSquare()
+	//BlackSquare()
+	Marathon()
 }
