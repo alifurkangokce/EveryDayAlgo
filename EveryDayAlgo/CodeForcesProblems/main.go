@@ -76,5 +76,6 @@ func main() {
 	//MinimalSquare()
 	//BoringApartments()
 	//BlackSquare()
-	Marathon()
+	//Marathon()
+	MaxiumumGcd()
 }
