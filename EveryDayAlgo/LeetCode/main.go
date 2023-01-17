@@ -141,5 +141,6 @@ func main() {
 	//fmt.Print(mergeTrees(&TreeNode{Val: 1}, &TreeNode{Val: 2}))
 	//fmt.Print(maximumProduct([]int{3, 2, 1, -1, -2, -3, -4}))
 	//fmt.Print(averageOfLevels(&TreeNode{Val: 3, Left: &TreeNode{Val: 9}, Right: &TreeNode{Val: 20}}))
-	fmt.Print(findMaxAverage([]int{-1}, 1))
+	//fmt.Print(findMaxAverage([]int{-1}, 1))
+	fmt.Print(findErrorNums([]int{2, 2, 3, 4}))
 }
