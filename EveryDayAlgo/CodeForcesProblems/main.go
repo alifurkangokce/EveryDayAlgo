@@ -77,5 +77,6 @@ func main() {
 	//BoringApartments()
 	//BlackSquare()
 	//Marathon()
-	MaxiumumGcd()
+	//MaxiumumGcd()
+	YesorYes()
 }
