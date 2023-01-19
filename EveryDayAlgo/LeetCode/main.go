@@ -142,5 +142,7 @@ func main() {
 	//fmt.Print(maximumProduct([]int{3, 2, 1, -1, -2, -3, -4}))
 	//fmt.Print(averageOfLevels(&TreeNode{Val: 3, Left: &TreeNode{Val: 9}, Right: &TreeNode{Val: 20}}))
 	//fmt.Print(findMaxAverage([]int{-1}, 1))
-	fmt.Print(findErrorNums([]int{2, 2, 3, 4}))
+	//fmt.Print(findErrorNums([]int{2, 2, 3, 4}))
+	//fmt.Print(findTarget(&TreeNode{Val: 1, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 3}}, 5))
+	fmt.Print(judgeCircle("UDL"))
 }
