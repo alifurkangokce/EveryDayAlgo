@@ -21,7 +21,6 @@ func imageSmoother(img [][]int) [][]int {
 			}
 			res[i][j] = sum / cells
 		}
-
 	}
 	return res
 }
