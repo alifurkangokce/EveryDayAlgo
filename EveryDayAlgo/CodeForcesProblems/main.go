@@ -79,5 +79,6 @@ func main() {
 	//Marathon()
 	//MaxiumumGcd()
 	//YesorYes()
-	HonestCoach()
+	//HonestCoach()
+	Lucky()
 }

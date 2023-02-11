@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func nextRound() {
+func NextRound() {
 	var n, k, count int
 	var arr [100]int
 	fmt.Scan(&n)
