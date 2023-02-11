@@ -145,5 +145,6 @@ func main() {
 	//fmt.Print(findErrorNums([]int{2, 2, 3, 4}))
 	//fmt.Print(findTarget(&TreeNode{Val: 1, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 3}}, 5))
 	//fmt.Print(judgeCircle("UDL"))
-	fmt.Print(imageSmoother([][]int{{1, 1, 1}, {1, 0, 1}, {1, 1, 1}}))
+	//fmt.Print(imageSmoother([][]int{{1, 1, 1}, {1, 0, 1}, {1, 1, 1}}))
+	fmt.Print(findSecondMinimumValue(&TreeNode{Val: 2, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 2}}))
 }
