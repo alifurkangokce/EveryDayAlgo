@@ -80,5 +80,6 @@ func main() {
 	//MaxiumumGcd()
 	//YesorYes()
 	//HonestCoach()
-	Lucky()
+	//Lucky()
+	FairDivision()
 }
