@@ -148,5 +148,6 @@ func main() {
 	//fmt.Print(imageSmoother([][]int{{1, 1, 1}, {1, 0, 1}, {1, 1, 1}}))
 	// fmt.Print(findSecondMinimumValue(&TreeNode{Val: 2, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 2}}))
 	//fmt.Print(findLengthOfLCIS([]int{1, 3, 5, 4, 2, 3, 4, 5}))
-	fmt.Print(validPalindrome("aba"))
+	//fmt.Print(validPalindrome("aba"))
+	fmt.Print(calPoints([]string{"1", "C"}))
 }
