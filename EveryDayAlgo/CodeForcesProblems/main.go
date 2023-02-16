@@ -81,5 +81,6 @@ func main() {
 	//YesorYes()
 	//HonestCoach()
 	//Lucky()
-	FairDivision()
+	//FairDivision()
+	Sum()
 }
