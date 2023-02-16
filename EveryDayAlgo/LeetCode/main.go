@@ -149,5 +149,6 @@ func main() {
 	// fmt.Print(findSecondMinimumValue(&TreeNode{Val: 2, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 2}}))
 	//fmt.Print(findLengthOfLCIS([]int{1, 3, 5, 4, 2, 3, 4, 5}))
 	//fmt.Print(validPalindrome("aba"))
-	fmt.Print(calPoints([]string{"1", "C"}))
+	//fmt.Print(calPoints([]string{"1", "C"}))
+	fmt.Print(hasAlternatingBits(5))
 }
