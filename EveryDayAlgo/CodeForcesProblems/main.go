@@ -79,8 +79,9 @@ func main() {
 	//Marathon()
 	//MaxiumumGcd()
 	//YesorYes()
-	//HonestCoach()
+	// HonestCoach()
 	//Lucky()
 	//FairDivision()
-	Sum()
+	// Sum()
+	PolycarpAndCoins()
 }
