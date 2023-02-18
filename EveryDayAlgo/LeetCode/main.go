@@ -150,5 +150,6 @@ func main() {
 	//fmt.Print(findLengthOfLCIS([]int{1, 3, 5, 4, 2, 3, 4, 5}))
 	//fmt.Print(validPalindrome("aba"))
 	//fmt.Print(calPoints([]string{"1", "C"}))
-	fmt.Print(hasAlternatingBits(5))
+	//fmt.Print(hasAlternatingBits(5))
+	fmt.Print(countBinarySubstrings("00110011"))
 }
