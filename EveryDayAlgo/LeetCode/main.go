@@ -151,5 +151,6 @@ func main() {
 	//fmt.Print(validPalindrome("aba"))
 	//fmt.Print(calPoints([]string{"1", "C"}))
 	//fmt.Print(hasAlternatingBits(5))
-	fmt.Print(countBinarySubstrings("00110011"))
+	//fmt.Print(countBinarySubstrings("00110011"))
+	fmt.Print(findShortestSubArray([]int{1, 2, 2, 3, 1, 4, 2}))
 }
