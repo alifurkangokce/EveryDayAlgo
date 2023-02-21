@@ -152,5 +152,6 @@ func main() {
 	//fmt.Print(calPoints([]string{"1", "C"}))
 	//fmt.Print(hasAlternatingBits(5))
 	//fmt.Print(countBinarySubstrings("00110011"))
-	fmt.Print(findShortestSubArray([]int{1, 2, 2, 3, 1, 4, 2}))
+	//fmt.Print(findShortestSubArray([]int{1, 2, 2, 3, 1, 4, 2}))
+	fmt.Print(searchBST(&TreeNode{Val: 4, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 7}}, 2))
 }
