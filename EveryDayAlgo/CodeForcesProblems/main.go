@@ -83,5 +83,6 @@ func main() {
 	//Lucky()
 	//FairDivision()
 	// Sum()
-	PolycarpAndCoins()
+	//PolycarpAndCoins()
+	Division()
 }
