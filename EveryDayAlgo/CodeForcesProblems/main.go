@@ -84,5 +84,6 @@ func main() {
 	//FairDivision()
 	// Sum()
 	//PolycarpAndCoins()
-	Division()
+	//Division()
+	BachgoldProblem()
 }
