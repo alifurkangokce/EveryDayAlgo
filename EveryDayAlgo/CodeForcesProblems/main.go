@@ -85,5 +85,6 @@ func main() {
 	// Sum()
 	//PolycarpAndCoins()
 	//Division()
-	BachgoldProblem()
+	//BachgoldProblem()
+	GiftsFixing()
 }
