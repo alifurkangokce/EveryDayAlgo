@@ -156,5 +156,6 @@ func main() {
 	//fmt.Print(searchBST(&TreeNode{Val: 4, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 7}}, 2))
 	//fmt.Print(search([]int{-1, 0, 3, 5, 9, 12}, 9))
 	//fmt.Print(toLowerCase("Hello"))
-	fmt.Print(isOneBitCharacter([]int{1, 1, 0, 0}))
+	//fmt.Print(isOneBitCharacter([]int{1, 1, 0, 0}))
+	fmt.Print(pivotIndex([]int{1, 7, 3, 6, 5, 6}))
 }
