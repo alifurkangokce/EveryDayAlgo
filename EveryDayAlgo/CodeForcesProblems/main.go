@@ -86,5 +86,6 @@ func main() {
 	//PolycarpAndCoins()
 	//Division()
 	//BachgoldProblem()
-	GiftsFixing()
+	//GiftsFixing()
+	MagicalSticks()
 }
