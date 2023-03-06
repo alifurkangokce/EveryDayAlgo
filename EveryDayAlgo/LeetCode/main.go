@@ -158,5 +158,6 @@ func main() {
 	//fmt.Print(toLowerCase("Hello"))
 	//fmt.Print(isOneBitCharacter([]int{1, 1, 0, 0}))
 	//fmt.Print(pivotIndex([]int{1, 7, 3, 6, 5, 6}))
-	fmt.Print(selfDividingNumbers(1, 22))
+	//fmt.Print(selfDividingNumbers(1, 22))
+	fmt.Print(floodFill([][]int{{1, 1, 1}, {1, 1, 0}, {1, 0, 1}}, 1, 1, 2))
 }
