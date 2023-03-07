@@ -88,5 +88,6 @@ func main() {
 	//BachgoldProblem()
 	//GiftsFixing()
 	//MagicalSticks()
-	BrainsPhotos()
+	//BrainsPhotos()
+	SquareString()
 }
