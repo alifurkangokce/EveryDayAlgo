@@ -160,5 +160,6 @@ func main() {
 	//fmt.Print(pivotIndex([]int{1, 7, 3, 6, 5, 6}))
 	//fmt.Print(selfDividingNumbers(1, 22))
 	//fmt.Print(floodFill([][]int{{1, 1, 1}, {1, 1, 0}, {1, 0, 1}}, 1, 1, 2))
-	fmt.Print(nextGreatestLetter([]byte{'c', 'f', 'j'}, 'a'))
+	//fmt.Print(nextGreatestLetter([]byte{'c', 'f', 'j'}, 'a'))
+	fmt.Print(minCostClimbingStairs([]int{1, 100, 1, 1, 1, 100, 1, 1, 100, 1}))
 }
