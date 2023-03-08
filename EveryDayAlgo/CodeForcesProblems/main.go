@@ -89,5 +89,6 @@ func main() {
 	//GiftsFixing()
 	//MagicalSticks()
 	//BrainsPhotos()
-	SquareString()
+	//SquareString()
+	PanaromixsPrediction()
 }
