@@ -90,5 +90,6 @@ func main() {
 	//MagicalSticks()
 	//BrainsPhotos()
 	//SquareString()
-	PanaromixsPrediction()
+	//PanaromixsPrediction()
+	MinutesBeforeTheNewYear()
 }
