@@ -91,5 +91,6 @@ func main() {
 	//BrainsPhotos()
 	//SquareString()
 	//PanaromixsPrediction()
-	MinutesBeforeTheNewYear()
+	//MinutesBeforeTheNewYear()
+	FairPlayoff()
 }
