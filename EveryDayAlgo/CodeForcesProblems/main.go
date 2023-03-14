@@ -92,5 +92,6 @@ func main() {
 	//SquareString()
 	//PanaromixsPrediction()
 	//MinutesBeforeTheNewYear()
-	FairPlayoff()
+	//FairPlayoff()
+	VanyaAndCubes()
 }
