@@ -163,5 +163,6 @@ func main() {
 	//fmt.Print(nextGreatestLetter([]byte{'c', 'f', 'j'}, 'a'))
 	//fmt.Print(minCostClimbingStairs([]int{1, 100, 1, 1, 1, 100, 1, 1, 100, 1}))
 	//fmt.Print(dominantIndex([]int{3, 6, 1, 0}))
-	fmt.Print(shortestCompletingWord("GrC8950", []string{"measure", "other", "every", "base", "according", "level", "meeting", "none", "marriage", "rest"}))
+	//fmt.Print(shortestCompletingWord("GrC8950", []string{"measure", "other", "every", "base", "according", "level", "meeting", "none", "marriage", "rest"}))
+	fmt.Print(countPrimeSetBits(10, 15))
 }
