@@ -3,7 +3,7 @@ package main
 func main() {
 	//watermelon()
 	//domino()
-	wayTooLong()
+	//wayTooLong()
 	//team()
 	//nextRound()
 	//BitPlus()
@@ -94,4 +94,5 @@ func main() {
 	//MinutesBeforeTheNewYear()
 	//FairPlayoff()
 	//VanyaAndCubes()
+	FloorNumber()
 }
