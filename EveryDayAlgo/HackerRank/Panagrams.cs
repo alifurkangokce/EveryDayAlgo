@@ -1,52 +1,52 @@
-using System.CodeDom.Compiler;
-using System.Collections.Generic;
-using System.Collections;
-using System.ComponentModel;
-using System.Diagnostics.CodeAnalysis;
-using System.Globalization;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Runtime.Serialization;
-using System.Text.RegularExpressions;
-using System.Text;
-using System;
+// using System.CodeDom.Compiler;
+// using System.Collections.Generic;
+// using System.Collections;
+// using System.ComponentModel;
+// using System.Diagnostics.CodeAnalysis;
+// using System.Globalization;
+// using System.IO;
+// using System.Linq;
+// using System.Reflection;
+// using System.Runtime.Serialization;
+// using System.Text.RegularExpressions;
+// using System.Text;
+// using System;
 
-class Result
-{
+// class Result
+// {
 
-    /*
-     * Complete the 'pangrams' function below.
-     *
-     * The function is expected to return a STRING.
-     * The function accepts STRING s as parameter.
-     */
+//     /*
+//      * Complete the 'pangrams' function below.
+//      *
+//      * The function is expected to return a STRING.
+//      * The function accepts STRING s as parameter.
+//      */
 
-    public static string pangrams(string s)
-    {
-        var res = s.ToLower().Trim().GroupBy(x => x).Count();
-        if (res<27)
-        {
-            return "not pangram";
-        }
-        return "pangram";
-    }
+//     public static string pangrams(string s)
+//     {
+//         var res = s.ToLower().Trim().GroupBy(x => x).Count();
+//         if (res<27)
+//         {
+//             return "not pangram";
+//         }
+//         return "pangram";
+//     }
 
-}
+// }
 
-class Solution
-{
-    public static void Main(string[] args)
-    {
-        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+// class Solution
+// {
+//     public static void Main(string[] args)
+//     {
+//         TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
-        string s = Console.ReadLine();
+//         string s = Console.ReadLine();
 
-        string result = Result.pangrams(s);
+//         string result = Result.pangrams(s);
 
-        textWriter.WriteLine(result);
+//         textWriter.WriteLine(result);
 
-        textWriter.Flush();
-        textWriter.Close();
-    }
-}
+//         textWriter.Flush();
+//         textWriter.Close();
+//     }
+// }
