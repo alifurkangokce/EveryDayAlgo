@@ -165,5 +165,6 @@ func main() {
 	//fmt.Print(dominantIndex([]int{3, 6, 1, 0}))
 	//fmt.Print(shortestCompletingWord("GrC8950", []string{"measure", "other", "every", "base", "according", "level", "meeting", "none", "marriage", "rest"}))
 	//fmt.Print(countPrimeSetBits(10, 15))
-	fmt.Print(isToeplitzMatrix([][]int{{1, 2, 3, 4}, {5, 1, 2, 3}, {9, 5, 1, 2}}))
+	//fmt.Print(isToeplitzMatrix([][]int{{1, 2, 3, 4}, {5, 1, 2, 3}, {9, 5, 1, 2}}))
+	fmt.Print(numJewelsInStones("aA", "aAAbbbb"))
 }
