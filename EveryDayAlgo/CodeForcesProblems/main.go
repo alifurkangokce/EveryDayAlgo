@@ -94,5 +94,6 @@ func main() {
 	//MinutesBeforeTheNewYear()
 	//FairPlayoff()
 	//VanyaAndCubes()
-	FloorNumber()
+	//FloorNumber()
+	CollectingCoins()
 }
