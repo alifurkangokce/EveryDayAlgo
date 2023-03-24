@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NR1ukN+Z3iMjCduPbT5V0loySmrmcUgnz3wrMR57GuzwM//h7O+2DVU51CpyGpkq3HvE8I1xSnhhHqtypkEBeA==",
+  "dgSpecHash": "dw90EcyZfbRxOUQZnmHFRHhUDuwWNgfapeNmdsKfFNCLFvODEQwF+SDgp6rxw6XiB56VqtfDvQLydZYxvj/cLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Furkan Gökçe\\go\\src\\EveryDayAlgo\\HackerRank\\HackerRank.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/alifurkangokce/Desktop/EveryDayAlgo/EveryDayAlgo/HackerRank/HackerRank.csproj",
+  "expectedPackageFiles": [
+    "/Users/alifurkangokce/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/alifurkangokce/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/alifurkangokce/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,3 +1,4 @@
+/*
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Collections;
@@ -20,7 +21,7 @@ class Result
      * Complete the 'separateNumbers' function below.
      *
      * The function accepts STRING s as parameter.
-     */
+     #1#
 
         public static void separateNumbers(string s)
         {
@@ -61,6 +62,9 @@ class Solution
 
         //     Result.separateNumbers(s);
         // }
+        
         Result.separateNumbers("99910001001");
+        
     }
 }
+*/
