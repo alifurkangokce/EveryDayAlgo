@@ -166,5 +166,6 @@ func main() {
 	//fmt.Print(shortestCompletingWord("GrC8950", []string{"measure", "other", "every", "base", "according", "level", "meeting", "none", "marriage", "rest"}))
 	//fmt.Print(countPrimeSetBits(10, 15))
 	//fmt.Print(isToeplitzMatrix([][]int{{1, 2, 3, 4}, {5, 1, 2, 3}, {9, 5, 1, 2}}))
-	fmt.Print(numJewelsInStones("aA", "aAAbbbb"))
+	//fmt.Print(numJewelsInStones("aA", "aAAbbbb"))
+	fmt.Print(minDiffInBST(&TreeNode{Val: 4, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 1}, Right: &TreeNode{Val: 3}}, Right: &TreeNode{Val: 6}}))
 }
