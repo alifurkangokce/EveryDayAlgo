@@ -95,5 +95,6 @@ func main() {
 	//FairPlayoff()
 	//VanyaAndCubes()
 	//FloorNumber()
-	CollectingCoins()
+	//CollectingCoins()
+	CardsForFriends()
 }
