@@ -96,5 +96,6 @@ func main() {
 	//VanyaAndCubes()
 	//FloorNumber()
 	//CollectingCoins()
-	CardsForFriends()
+	//CardsForFriends()
+	CodeForcesChecking()
 }
