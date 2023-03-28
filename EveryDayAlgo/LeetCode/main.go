@@ -169,5 +169,6 @@ func main() {
 	//fmt.Print(numJewelsInStones("aA", "aAAbbbb"))
 	// fmt.Print(minDiffInBST(&TreeNode{Val: 4, Left: &TreeNode{Val: 2, Left: &TreeNode{Val: 1}, Right: &TreeNode{Val: 3}}, Right: &TreeNode{Val: 6}}))
 	//fmt.Print(rotateString("abcde", "cdeab"))
-	fmt.Print(uniqueMorseRepresentations([]string{"gin", "zen", "gig", "msg"}))
+	//fmt.Print(uniqueMorseRepresentations([]string{"gin", "zen", "gig", "msg"}))
+	fmt.Print(numberOfLines([]int{4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10}, "bbbcccdddaaa"))
 }
