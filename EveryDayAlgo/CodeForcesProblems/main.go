@@ -97,5 +97,6 @@ func main() {
 	//FloorNumber()
 	//CollectingCoins()
 	//CardsForFriends()
-	CodeForcesChecking()
+	//CodeForcesChecking()
+	AddOddOrSubtrackEven()
 }
