@@ -171,5 +171,6 @@ func main() {
 	//fmt.Print(rotateString("abcde", "cdeab"))
 	//fmt.Print(uniqueMorseRepresentations([]string{"gin", "zen", "gig", "msg"}))
 	//fmt.Print(numberOfLines([]int{4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10}, "bbbcccdddaaa"))
-	fmt.Print(largestTriangleArea([][]int{{1, 0}, {0, 0}, {0, 1}}))
+	//fmt.Print(largestTriangleArea([][]int{{1, 0}, {0, 0}, {0, 1}}))
+	fmt.Print(mostCommonWord("Bob. hIt, baLl", []string{"bob", "hit"}))
 }
