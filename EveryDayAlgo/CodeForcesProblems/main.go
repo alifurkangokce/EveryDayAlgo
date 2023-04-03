@@ -98,5 +98,6 @@ func main() {
 	//CollectingCoins()
 	//CardsForFriends()
 	//CodeForcesChecking()
-	AddOddOrSubtrackEven()
+	//AddOddOrSubtrackEven()
+	MediumNumber()
 }
