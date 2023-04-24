@@ -99,5 +99,6 @@ func main() {
 	//CardsForFriends()
 	//CodeForcesChecking()
 	//AddOddOrSubtrackEven()
-	MediumNumber()
+	//MediumNumber()
+	FafaAndHisCompany()
 }
