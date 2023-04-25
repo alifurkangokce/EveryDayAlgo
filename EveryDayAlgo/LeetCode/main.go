@@ -175,5 +175,6 @@ func main() {
 	//fmt.Print(mostCommonWord("Bob. hIt, baLl", []string{"bob", "hit"}))
 	//fmt.Print(shortestToChar("loveleetcode", 'e'))
 	//fmt.Print(toGoatLatin("I speak Goat Latin"))
-	fmt.Print(largeGroupPositions("aaa"))
+	//fmt.Print(largeGroupPositions("aaa"))
+	fmt.Print(flipAndInvertImage([][]int{{1, 1, 0}, {1, 0, 1}, {0, 0, 0}}))
 }
