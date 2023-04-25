@@ -100,5 +100,6 @@ func main() {
 	//CodeForcesChecking()
 	//AddOddOrSubtrackEven()
 	//MediumNumber()
-	FafaAndHisCompany()
+	//FafaAndHisCompany()
+	NightAtTheMuseum()
 }
