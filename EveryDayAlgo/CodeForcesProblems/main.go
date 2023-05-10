@@ -101,5 +101,6 @@ func main() {
 	//AddOddOrSubtrackEven()
 	//MediumNumber()
 	//FafaAndHisCompany()
-	NightAtTheMuseum()
+	//NightAtTheMuseum()
+	SpellCheck()
 }
