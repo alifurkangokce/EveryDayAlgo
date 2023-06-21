@@ -177,5 +177,6 @@ func main() {
 	//fmt.Print(toGoatLatin("I speak Goat Latin"))
 	//fmt.Print(largeGroupPositions("aaa"))
 	//fmt.Print(flipAndInvertImage([][]int{{1, 1, 0}, {1, 0, 1}, {0, 0, 0}}))
-	fmt.Print(backspaceCompare("a##c", "#a#c"))
+	//fmt.Print(backspaceCompare("a##c", "#a#c"))
+	fmt.Print(buddyStrings("aa", "aa"))
 }
