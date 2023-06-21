@@ -102,5 +102,6 @@ func main() {
 	//MediumNumber()
 	//FafaAndHisCompany()
 	//NightAtTheMuseum()
-	SpellCheck()
+	//SpellCheck()
+	PlusOrMinus()
 }
