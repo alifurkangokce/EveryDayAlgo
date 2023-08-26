@@ -179,5 +179,6 @@ func main() {
 	//fmt.Print(flipAndInvertImage([][]int{{1, 1, 0}, {1, 0, 1}, {0, 0, 0}}))
 	//fmt.Print(backspaceCompare("a##c", "#a#c"))
 	//fmt.Print(buddyStrings("aa", "aa"))
-	fmt.Print(lemonadeChange([]int{5, 5, 5, 10, 5, 5, 10, 20, 20, 20}))
+	//fmt.Print(lemonadeChange([]int{5, 5, 5, 10, 5, 5, 10, 20, 20, 20}))
+	fmt.Print(transpose([][]int{{1, 2, 3}, {4, 5, 6}}))
 }
