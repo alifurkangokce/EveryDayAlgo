@@ -180,5 +180,6 @@ func main() {
 	//fmt.Print(backspaceCompare("a##c", "#a#c"))
 	//fmt.Print(buddyStrings("aa", "aa"))
 	//fmt.Print(lemonadeChange([]int{5, 5, 5, 10, 5, 5, 10, 20, 20, 20}))
-	fmt.Print(transpose([][]int{{1, 2, 3}, {4, 5, 6}}))
+	//fmt.Print(transpose([][]int{{1, 2, 3}, {4, 5, 6}}))
+	fmt.Print(binaryGap(22))
 }
