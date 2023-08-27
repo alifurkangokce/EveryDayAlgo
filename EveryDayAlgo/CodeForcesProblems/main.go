@@ -104,5 +104,6 @@ func main() {
 	//NightAtTheMuseum()
 	//SpellCheck()
 	//PlusOrMinus()
-	MahmoudandEhabandtheevenoddgame()
+	//MahmoudandEhabandtheevenoddgame()
+	EqualCandies()
 }
