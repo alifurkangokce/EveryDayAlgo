@@ -105,5 +105,6 @@ func main() {
 	//SpellCheck()
 	//PlusOrMinus()
 	//MahmoudandEhabandtheevenoddgame()
-	EqualCandies()
+	//EqualCandies()
+	IcpcBalloons()
 }
