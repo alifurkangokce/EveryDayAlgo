@@ -106,5 +106,6 @@ func main() {
 	//PlusOrMinus()
 	//MahmoudandEhabandtheevenoddgame()
 	//EqualCandies()
-	IcpcBalloons()
+	//IcpcBalloons()
+	OddSet()
 }
