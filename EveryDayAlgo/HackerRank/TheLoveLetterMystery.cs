@@ -1,58 +1,58 @@
-using System.CodeDom.Compiler;
-using System.Collections.Generic;
-using System.Collections;
-using System.ComponentModel;
-using System.Diagnostics.CodeAnalysis;
-using System.Globalization;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Runtime.Serialization;
-using System.Text.RegularExpressions;
-using System.Text;
-using System;
+// using System.CodeDom.Compiler;
+// using System.Collections.Generic;
+// using System.Collections;
+// using System.ComponentModel;
+// using System.Diagnostics.CodeAnalysis;
+// using System.Globalization;
+// using System.IO;
+// using System.Linq;
+// using System.Reflection;
+// using System.Runtime.Serialization;
+// using System.Text.RegularExpressions;
+// using System.Text;
+// using System;
 
-class Result
-{
+// class Result
+// {
 
-    /*
-     * Complete the 'theLoveLetterMystery' function below.
-     *
-     * The function is expected to return an INTEGER.
-     * The function accepts STRING s as parameter.
-     */
+//     /*
+//      * Complete the 'theLoveLetterMystery' function below.
+//      *
+//      * The function is expected to return an INTEGER.
+//      * The function accepts STRING s as parameter.
+//      */
 
-    public static int theLoveLetterMystery(string s)
-    {
-        decimal res = 0;    
+//     public static int theLoveLetterMystery(string s)
+//     {
+//         decimal res = 0;    
 
-        for (int i = 0; i <= s.Length/2-1; i++)
-        {
-            res += Math.Abs((s[i] - s[s.Length - 1 - i]));
-        }    
-        return Convert.ToInt32(res);
-    }
+//         for (int i = 0; i <= s.Length/2-1; i++)
+//         {
+//             res += Math.Abs((s[i] - s[s.Length - 1 - i]));
+//         }    
+//         return Convert.ToInt32(res);
+//     }
 
-}
+// }
 
-class Solution
-{
-    public static void Main(string[] args)
-    {
-        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+// class Solution
+// {
+//     public static void Main(string[] args)
+//     {
+//         TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
-        int q = Convert.ToInt32(Console.ReadLine().Trim());
+//         int q = Convert.ToInt32(Console.ReadLine().Trim());
 
-        for (int qItr = 0; qItr < q; qItr++)
-        {
-            string s = Console.ReadLine();
+//         for (int qItr = 0; qItr < q; qItr++)
+//         {
+//             string s = Console.ReadLine();
 
-            int result = Result.theLoveLetterMystery(s);
+//             int result = Result.theLoveLetterMystery(s);
 
-            textWriter.WriteLine(result);
-        }
+//             textWriter.WriteLine(result);
+//         }
 
-        textWriter.Flush();
-        textWriter.Close();
-    }
-}
+//         textWriter.Flush();
+//         textWriter.Close();
+//     }
+// }

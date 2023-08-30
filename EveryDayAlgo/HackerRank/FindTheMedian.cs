@@ -1,50 +1,50 @@
-using System.CodeDom.Compiler;
-using System.Collections.Generic;
-using System.Collections;
-using System.ComponentModel;
-using System.Diagnostics.CodeAnalysis;
-using System.Globalization;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Runtime.Serialization;
-using System.Text.RegularExpressions;
-using System.Text;
-using System;
+// using System.CodeDom.Compiler;
+// using System.Collections.Generic;
+// using System.Collections;
+// using System.ComponentModel;
+// using System.Diagnostics.CodeAnalysis;
+// using System.Globalization;
+// using System.IO;
+// using System.Linq;
+// using System.Reflection;
+// using System.Runtime.Serialization;
+// using System.Text.RegularExpressions;
+// using System.Text;
+// using System;
 
-class Result
-{
+// class Result
+// {
 
-    /*
-     * Complete the 'findMedian' function below.
-     *
-     * The function is expected to return an INTEGER.
-     * The function accepts INTEGER_ARRAY arr as parameter.
-     */
+//     /*
+//      * Complete the 'findMedian' function below.
+//      *
+//      * The function is expected to return an INTEGER.
+//      * The function accepts INTEGER_ARRAY arr as parameter.
+//      */
 
-    public static int findMedian(List<int> arr)
-    {
-        var arrSort = arr.OrderBy(x=>x).ToList();
-        return arrSort.Count()>1?arrSort[arrSort.Count()/2]:arrSort[0];
-    }
+//     public static int findMedian(List<int> arr)
+//     {
+//         var arrSort = arr.OrderBy(x=>x).ToList();
+//         return arrSort.Count()>1?arrSort[arrSort.Count()/2]:arrSort[0];
+//     }
 
-}
+// }
 
-class Solution
-{
-    public static void Main(string[] args)
-    {
-        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+// class Solution
+// {
+//     public static void Main(string[] args)
+//     {
+//         TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
-        int n = Convert.ToInt32(Console.ReadLine().Trim());
+//         int n = Convert.ToInt32(Console.ReadLine().Trim());
 
-        List<int> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
+//         List<int> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
 
-        int result = Result.findMedian(arr);
+//         int result = Result.findMedian(arr);
 
-        textWriter.WriteLine(result);
+//         textWriter.WriteLine(result);
 
-        textWriter.Flush();
-        textWriter.Close();
-    }
-}
+//         textWriter.Flush();
+//         textWriter.Close();
+//     }
+// }
