@@ -185,5 +185,6 @@ func main() {
 	//fmt.Print(leafSimilar(&TreeNode{Val: 1, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 3}}, &TreeNode{Val: 1, Left: &TreeNode{Val: 3}, Right: &TreeNode{Val: 2}}))
 	//fmt.Print(middleNode(&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 3, Next: &ListNode{Val: 4, Next: &ListNode{Val: 5}}}}}))
 	//fmt.Print(uncommonFromSentences("this apple is sweet", "this apple is sour"))
-	fmt.Print(fairCandySwap([]int{1, 1}, []int{2, 2}))
+	//fmt.Print(fairCandySwap([]int{1, 1}, []int{2, 2}))
+	fmt.Print(isMonotonic([]int{1, 2, 2, 3}))
 }
