@@ -108,5 +108,6 @@ func main() {
 	//EqualCandies()
 	//IcpcBalloons()
 	//OddSet()
-	Increasing()
+	//Increasing()
+	Colourblindness()
 }
