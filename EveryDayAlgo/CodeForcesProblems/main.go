@@ -109,5 +109,6 @@ func main() {
 	//IcpcBalloons()
 	//OddSet()
 	//Increasing()
-	Colourblindness()
+	//Colourblindness()
+	PhoenixAndBalance()
 }
