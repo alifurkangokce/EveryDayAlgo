@@ -110,5 +110,6 @@ func main() {
 	//OddSet()
 	//Increasing()
 	//Colourblindness()
-	PhoenixAndBalance()
+	//PhoenixAndBalance()
+	SpecialPermutation()
 }
