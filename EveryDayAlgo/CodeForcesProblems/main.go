@@ -111,5 +111,6 @@ func main() {
 	//Increasing()
 	//Colourblindness()
 	//PhoenixAndBalance()
-	SpecialPermutation()
+	//SpecialPermutation()
+	AB()
 }
