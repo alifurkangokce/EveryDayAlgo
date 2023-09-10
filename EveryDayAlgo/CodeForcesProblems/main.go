@@ -112,5 +112,6 @@ func main() {
 	//Colourblindness()
 	//PhoenixAndBalance()
 	//SpecialPermutation()
-	AB()
+	//AB()
+	ToMyCritics()
 }
