@@ -113,5 +113,6 @@ func main() {
 	//PhoenixAndBalance()
 	//SpecialPermutation()
 	//AB()
-	ToMyCritics()
+	//ToMyCritics()
+	MostUnstableArray()
 }
