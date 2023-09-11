@@ -190,5 +190,6 @@ func main() {
 	//fmt.Print(increasingBST(&TreeNode{Val: 5, Left: &TreeNode{Val: 3, Right: &TreeNode{Val: 6}, Left: &TreeNode{Val: 7}}}))
 	//fmt.Print(sortArrayByParity([]int{3, 1, 2, 4}))
 	//fmt.Print(smallestRangeI([]int{0, 10}, 2))
-	fmt.Print(reverseOnlyLetters("a-bC-dEf-ghIj"))
+	//fmt.Print(reverseOnlyLetters("a-bC-dEf-ghIj"))
+	fmt.Print(sortArrayByParityII([]int{4, 2, 5, 7}))
 }
