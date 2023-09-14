@@ -114,5 +114,6 @@ func main() {
 	//SpecialPermutation()
 	//AB()
 	//ToMyCritics()
-	MostUnstableArray()
+	//MostUnstableArray()
+	FavoriteSequence()
 }
