@@ -192,5 +192,6 @@ func main() {
 	//fmt.Print(smallestRangeI([]int{0, 10}, 2))
 	//fmt.Print(reverseOnlyLetters("a-bC-dEf-ghIj"))
 	//fmt.Print(sortArrayByParityII([]int{4, 2, 5, 7}))
-	fmt.Print(isLongPressedName("alex", "aaleexeex"))
+	//fmt.Print(isLongPressedName("alex", "aaleexeex"))
+	fmt.Print(numUniqueEmails([]string{"test.email+alex@leetcode.com", "test.email.leet+alex@code.com"}))
 }
