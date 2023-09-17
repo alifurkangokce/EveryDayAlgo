@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ali Furkan Gökçe\\.nuget\\packages\\": {}
+    "/Users/alifurkangokce/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Furkan Gökçe\\go\\src\\EveryDayAlgo\\HackerRank\\HackerRank.csproj",
+      "projectUniqueName": "/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/HackerRank.csproj",
       "projectName": "HackerRank",
-      "projectPath": "C:\\Users\\Ali Furkan Gökçe\\go\\src\\EveryDayAlgo\\HackerRank\\HackerRank.csproj",
-      "packagesPath": "C:\\Users\\Ali Furkan Gökçe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali Furkan Gökçe\\go\\src\\EveryDayAlgo\\HackerRank\\obj\\",
+      "projectPath": "/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/HackerRank.csproj",
+      "packagesPath": "/Users/alifurkangokce/.nuget/packages/",
+      "outputPath": "/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ali Furkan Gökçe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/alifurkangokce/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,12 +54,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
       }
     }
   }
