@@ -116,5 +116,6 @@ func main() {
 	//ToMyCritics()
 	//MostUnstableArray()
 	// FavoriteSequence()
-	FollowingDirection()
+	//FollowingDirection()
+	MaxiumumIncrease()
 }
