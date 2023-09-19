@@ -115,5 +115,6 @@ func main() {
 	//AB()
 	//ToMyCritics()
 	//MostUnstableArray()
-	FavoriteSequence()
+	// FavoriteSequence()
+	FollowingDirection()
 }

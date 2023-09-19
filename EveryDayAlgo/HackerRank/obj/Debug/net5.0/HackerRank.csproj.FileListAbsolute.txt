@@ -30,19 +30,19 @@ C:/Users/Ali Furkan Gökçe/go/src/EveryDayAlgo/HackerRank/obj/Debug/net5.0/ref/
 /Users/alifurkangokce/Desktop/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/HackerRank.pdb
 /Users/alifurkangokce/Desktop/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/HackerRank.genruntimeconfig.cache
 /Users/alifurkangokce/Desktop/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/ref/HackerRank.dll
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\bin\Debug\net5.0\HackerRank.exe
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\bin\Debug\net5.0\HackerRank.deps.json
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\bin\Debug\net5.0\HackerRank.runtimeconfig.json
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\bin\Debug\net5.0\HackerRank.runtimeconfig.dev.json
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\bin\Debug\net5.0\HackerRank.dll
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\bin\Debug\net5.0\HackerRank.pdb
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\obj\Debug\net5.0\HackerRank.csproj.AssemblyReference.cache
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\obj\Debug\net5.0\HackerRank.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\obj\Debug\net5.0\HackerRank.AssemblyInfoInputs.cache
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\obj\Debug\net5.0\HackerRank.AssemblyInfo.cs
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\obj\Debug\net5.0\HackerRank.csproj.CoreCompileInputs.cache
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\obj\Debug\net5.0\HackerRank.dll
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\obj\Debug\net5.0\refint\HackerRank.dll
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\obj\Debug\net5.0\HackerRank.pdb
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\obj\Debug\net5.0\HackerRank.genruntimeconfig.cache
-C:\Users\Ali Furkan Gökçe\go\src\EveryDayAlgo\HackerRank\obj\Debug\net5.0\ref\HackerRank.dll
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/HackerRank.csproj.AssemblyReference.cache
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/HackerRank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/HackerRank.AssemblyInfoInputs.cache
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/HackerRank.AssemblyInfo.cs
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/HackerRank.csproj.CoreCompileInputs.cache
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/HackerRank.dll
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/refint/HackerRank.dll
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/HackerRank.pdb
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/bin/Debug/net5.0/HackerRank
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/bin/Debug/net5.0/HackerRank.deps.json
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/bin/Debug/net5.0/HackerRank.runtimeconfig.json
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/bin/Debug/net5.0/HackerRank.runtimeconfig.dev.json
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/bin/Debug/net5.0/HackerRank.dll
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/bin/Debug/net5.0/HackerRank.pdb
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/HackerRank.genruntimeconfig.cache
+/Users/alifurkangokce/go/src/EveryDayAlgo/EveryDayAlgo/HackerRank/obj/Debug/net5.0/ref/HackerRank.dll
