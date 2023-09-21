@@ -117,5 +117,6 @@ func main() {
 	//MostUnstableArray()
 	// FavoriteSequence()
 	//FollowingDirection()
-	MaxiumumIncrease()
+	//MaxiumumIncrease()
+	ArrayWithOddSum()
 }
