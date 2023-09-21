@@ -195,5 +195,6 @@ func main() {
 	//fmt.Print(isLongPressedName("alex", "aaleexeex"))
 	//fmt.Print(numUniqueEmails([]string{"test.email+alex@leetcode.com", "test.email.leet+alex@code.com"}))
 	//fmt.Print(rangeSumBST(&TreeNode{Val: 10, Left: &TreeNode{Val: 5, Left: &TreeNode{Val: 3}, Right: &TreeNode{Val: 7}}, Right: &TreeNode{Val: 15, Right: &TreeNode{Val: 18}}}, 7, 15))
-	fmt.Print(validMountainArray([]int{2, 3}))
+	//fmt.Print(validMountainArray([]int{2, 3}))
+	fmt.Print(diStringMatch("DDI"))
 }
