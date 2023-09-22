@@ -118,5 +118,6 @@ func main() {
 	// FavoriteSequence()
 	//FollowingDirection()
 	//MaxiumumIncrease()
-	ArrayWithOddSum()
+	//ArrayWithOddSum()
+	AtillasFavouriteProblem()
 }
