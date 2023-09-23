@@ -119,5 +119,6 @@ func main() {
 	//FollowingDirection()
 	//MaxiumumIncrease()
 	//ArrayWithOddSum()
-	AtillasFavouriteProblem()
+	//AtillasFavouriteProblem()
+	ArrayColoring()
 }
