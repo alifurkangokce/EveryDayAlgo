@@ -198,5 +198,6 @@ func main() {
 	//fmt.Print(validMountainArray([]int{2, 3}))
 	//fmt.Print(diStringMatch("DDI"))
 	//fmt.Print(minDeletionSize([]string{"zyx", "wvu", "tsr"}))
-	fmt.Print(isAlienSorted([]string{"hello", "leetcode"}, "hlabcdefgijkmnopqrstuvwxyz"))
+	//fmt.Print(isAlienSorted([]string{"hello", "leetcode"}, "hlabcdefgijkmnopqrstuvwxyz"))
+	fmt.Print(repeatedNTimes([]int{2, 1, 2, 5, 3, 2}))
 }
