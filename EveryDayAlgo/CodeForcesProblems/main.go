@@ -120,5 +120,6 @@ func main() {
 	//MaxiumumIncrease()
 	//ArrayWithOddSum()
 	//AtillasFavouriteProblem()
-	ArrayColoring()
+	//ArrayColoring()
+	LoveStory()
 }
