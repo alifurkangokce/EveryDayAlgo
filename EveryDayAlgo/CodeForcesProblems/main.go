@@ -121,5 +121,6 @@ func main() {
 	//ArrayWithOddSum()
 	//AtillasFavouriteProblem()
 	//ArrayColoring()
-	LoveStory()
+	//LoveStory()
+	PerfectPermutation()
 }
