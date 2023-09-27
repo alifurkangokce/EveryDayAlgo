@@ -122,5 +122,6 @@ func main() {
 	//AtillasFavouriteProblem()
 	//ArrayColoring()
 	//LoveStory()
-	PerfectPermutation()
+	//PerfectPermutation()
+	ParkLighting()
 }
