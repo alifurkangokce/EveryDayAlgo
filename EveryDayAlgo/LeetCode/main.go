@@ -202,5 +202,6 @@ func main() {
 	//fmt.Print(repeatedNTimes([]int{2, 1, 2, 5, 3, 2}))
 	//fmt.Print(addToArrayForm([]int{1, 2, 6, 3, 0, 7, 1, 7, 1, 9, 7, 5, 6, 6, 4, 4, 0, 0, 6, 3}, 516))
 	//fmt.Print(largestPerimeter([]int{1, 2, 1, 10}))
-	fmt.Print(isUnivalTree(&TreeNode{Val: 1, Left: &TreeNode{Val: 1}, Right: &TreeNode{Val: 1}}))
+	//fmt.Print(isUnivalTree(&TreeNode{Val: 1, Left: &TreeNode{Val: 1}, Right: &TreeNode{Val: 1}}))
+	fmt.Print(findJudge(3, [][]int{{1, 3}, {2, 3}}))
 }
