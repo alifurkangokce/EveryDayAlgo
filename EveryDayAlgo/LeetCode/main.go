@@ -203,5 +203,9 @@ func main() {
 	//fmt.Print(addToArrayForm([]int{1, 2, 6, 3, 0, 7, 1, 7, 1, 9, 7, 5, 6, 6, 4, 4, 0, 0, 6, 3}, 516))
 	//fmt.Print(largestPerimeter([]int{1, 2, 1, 10}))
 	//fmt.Print(isUnivalTree(&TreeNode{Val: 1, Left: &TreeNode{Val: 1}, Right: &TreeNode{Val: 1}}))
+
 	fmt.Print(numRookCaptures([][]byte{{'.', '.', '.', '.', '.', '.', '.', '.'}, {'.', '.', 'B', 'B', 'B', 'B', 'B', '.'}, {'.', 'p', 'B', 'p', 'p', 'p', 'B', 'p'}, {'.', 'p', 'B', 'p', 'R', 'p', 'B', 'p'}, {'.', 'p', 'B', 'p', 'p', 'p', 'B', 'p'}, {'.', '.', 'B', 'B', 'B', 'B', 'B', '.'}, {'.', '.', '.', 'p', 'p', 'p', '.', '.'}, {'.', '.', '.', '.', '.', '.', '.', '.'}}))
+
+	fmt.Print(findJudge(3, [][]int{{1, 3}, {2, 3}}))
+
 }
