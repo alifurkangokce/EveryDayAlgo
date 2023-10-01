@@ -204,8 +204,9 @@ func main() {
 	//fmt.Print(largestPerimeter([]int{1, 2, 1, 10}))
 	//fmt.Print(isUnivalTree(&TreeNode{Val: 1, Left: &TreeNode{Val: 1}, Right: &TreeNode{Val: 1}}))
 
-	fmt.Print(numRookCaptures([][]byte{{'.', '.', '.', '.', '.', '.', '.', '.'}, {'.', '.', 'B', 'B', 'B', 'B', 'B', '.'}, {'.', 'p', 'B', 'p', 'p', 'p', 'B', 'p'}, {'.', 'p', 'B', 'p', 'R', 'p', 'B', 'p'}, {'.', 'p', 'B', 'p', 'p', 'p', 'B', 'p'}, {'.', '.', 'B', 'B', 'B', 'B', 'B', '.'}, {'.', '.', '.', 'p', 'p', 'p', '.', '.'}, {'.', '.', '.', '.', '.', '.', '.', '.'}}))
+	//fmt.Print(numRookCaptures([][]byte{{'.', '.', '.', '.', '.', '.', '.', '.'}, {'.', '.', 'B', 'B', 'B', 'B', 'B', '.'}, {'.', 'p', 'B', 'p', 'p', 'p', 'B', 'p'}, {'.', 'p', 'B', 'p', 'R', 'p', 'B', 'p'}, {'.', 'p', 'B', 'p', 'p', 'p', 'B', 'p'}, {'.', '.', 'B', 'B', 'B', 'B', 'B', '.'}, {'.', '.', '.', 'p', 'p', 'p', '.', '.'}, {'.', '.', '.', '.', '.', '.', '.', '.'}}))
 
-	fmt.Print(findJudge(3, [][]int{{1, 3}, {2, 3}}))
+	//fmt.Print(findJudge(3, [][]int{{1, 3}, {2, 3}}))
+	fmt.Print(commonChars([]string{"bella", "label", "roller"}))
 
 }
