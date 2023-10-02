@@ -207,6 +207,7 @@ func main() {
 	//fmt.Print(numRookCaptures([][]byte{{'.', '.', '.', '.', '.', '.', '.', '.'}, {'.', '.', 'B', 'B', 'B', 'B', 'B', '.'}, {'.', 'p', 'B', 'p', 'p', 'p', 'B', 'p'}, {'.', 'p', 'B', 'p', 'R', 'p', 'B', 'p'}, {'.', 'p', 'B', 'p', 'p', 'p', 'B', 'p'}, {'.', '.', 'B', 'B', 'B', 'B', 'B', '.'}, {'.', '.', '.', 'p', 'p', 'p', '.', '.'}, {'.', '.', '.', '.', '.', '.', '.', '.'}}))
 
 	//fmt.Print(findJudge(3, [][]int{{1, 3}, {2, 3}}))
-	fmt.Print(commonChars([]string{"bella", "label", "roller"}))
+	//fmt.Print(commonChars([]string{"bella", "label", "roller"}))
+	fmt.Print(largestSumAfterKNegations([]int{-8, 3, -5, -3, -5, -2}, 6))
 
 }
