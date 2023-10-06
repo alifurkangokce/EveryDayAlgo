@@ -123,5 +123,6 @@ func main() {
 	//ArrayColoring()
 	//LoveStory()
 	//PerfectPermutation()
-	ParkLighting()
+	//ParkLighting()
+	TwoElevators()
 }
