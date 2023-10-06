@@ -208,6 +208,7 @@ func main() {
 
 	//fmt.Print(findJudge(3, [][]int{{1, 3}, {2, 3}}))
 	//fmt.Print(commonChars([]string{"bella", "label", "roller"}))
-	fmt.Print(largestSumAfterKNegations([]int{-8, 3, -5, -3, -5, -2}, 6))
+	//fmt.Print(largestSumAfterKNegations([]int{-8, 3, -5, -3, -5, -2}, 6))
+	fmt.Print(bitwiseComplement(5))
 
 }
