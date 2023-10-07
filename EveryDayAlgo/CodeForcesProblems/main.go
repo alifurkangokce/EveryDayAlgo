@@ -124,5 +124,6 @@ func main() {
 	//LoveStory()
 	//PerfectPermutation()
 	//ParkLighting()
-	TwoElevators()
+	//TwoElevators()
+	CasimirsStringSolitaire()
 }
