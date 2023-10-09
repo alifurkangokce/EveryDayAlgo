@@ -125,5 +125,6 @@ func main() {
 	//PerfectPermutation()
 	//ParkLighting()
 	//TwoElevators()
-	CasimirsStringSolitaire()
+	//CasimirsStringSolitaire()
+	ThePairwiseMaxiumus()
 }
