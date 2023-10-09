@@ -210,6 +210,7 @@ func main() {
 	//fmt.Print(commonChars([]string{"bella", "label", "roller"}))
 	//fmt.Print(largestSumAfterKNegations([]int{-8, 3, -5, -3, -5, -2}, 6))
 	//fmt.Print(bitwiseComplement(5))
-	fmt.Print(canThreePartsEqualSum([]int{0, 2, 1, -6, 6, -7, 9, 1, 2, 0, 1}))
+	//fmt.Print(canThreePartsEqualSum([]int{0, 2, 1, -6, 6, -7, 9, 1, 2, 0, 1}))
+	fmt.Print(prefixesDivBy5([]int{1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0}))
 
 }

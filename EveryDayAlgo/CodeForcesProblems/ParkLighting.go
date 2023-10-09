@@ -8,11 +8,10 @@ import (
 
 func ParkLighting() {
 	in := bufio.NewReader(os.Stdin)
-	var t, k, l int
+	var t, n, m int
 	fmt.Fscan(in, &t)
 	for i := 0; i < t; i++ {
-		fmt.Fscan(in, &k, &l)
-		fmt.Println(((k * l) + 1) / 2)
-
+		fmt.Fscan(in, &n, &m)
+		fmt.Println(((n * m) + 1) / 2)
 	}
 }
