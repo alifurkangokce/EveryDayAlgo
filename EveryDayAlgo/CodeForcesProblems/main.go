@@ -126,5 +126,6 @@ func main() {
 	//ParkLighting()
 	//TwoElevators()
 	//CasimirsStringSolitaire()
-	ThePairwiseMaxiumus()
+	//ThePairwiseMaxiumus()
+	Football()
 }
