@@ -214,6 +214,7 @@ func main() {
 	//fmt.Print(prefixesDivBy5([]int{1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0}))
 	//fmt.Print(removeOuterParentheses("(()())(())(()(()))"))
 	//fmt.Print(sumRootToLeaf(&TreeNode{Val: 1, Left: &TreeNode{Val: 0, Left: &TreeNode{Val: 0}, Right: &TreeNode{Val: 1}}, Right: &TreeNode{Val: 1, Left: &TreeNode{Val: 0}, Right: &TreeNode{Val: 1}}}))
-	fmt.Print(allCellsDistOrder(2, 3, 1, 2))
+	//fmt.Print(allCellsDistOrder(2, 3, 1, 2))
+	fmt.Print(isBoomerang([][]int{{1, 1}, {2, 3}, {3, 2}}))
 
 }
