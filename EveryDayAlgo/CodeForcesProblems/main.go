@@ -127,5 +127,6 @@ func main() {
 	//TwoElevators()
 	//CasimirsStringSolitaire()
 	//ThePairwiseMaxiumus()
-	Football()
+	//Football()
+	EvenOdds()
 }
