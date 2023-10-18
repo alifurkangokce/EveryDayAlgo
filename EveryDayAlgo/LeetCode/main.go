@@ -216,6 +216,7 @@ func main() {
 	//fmt.Print(sumRootToLeaf(&TreeNode{Val: 1, Left: &TreeNode{Val: 0, Left: &TreeNode{Val: 0}, Right: &TreeNode{Val: 1}}, Right: &TreeNode{Val: 1, Left: &TreeNode{Val: 0}, Right: &TreeNode{Val: 1}}}))
 	//fmt.Print(allCellsDistOrder(2, 3, 1, 2))
 	//fmt.Print(isBoomerang([][]int{{1, 1}, {2, 3}, {3, 2}}))
-	fmt.Print(lastStoneWeight([]int{2, 7, 4, 1, 8, 1, 1}))
+	//fmt.Print(lastStoneWeight([]int{2, 7, 4, 1, 8, 1, 1}))
+	fmt.Print(removeAllDuplicates("aaaaaaaaa"))
 
 }
