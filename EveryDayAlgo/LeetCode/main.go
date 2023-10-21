@@ -218,6 +218,7 @@ func main() {
 	//fmt.Print(isBoomerang([][]int{{1, 1}, {2, 3}, {3, 2}}))
 	//fmt.Print(lastStoneWeight([]int{2, 7, 4, 1, 8, 1, 1}))
 	//fmt.Print(removeAllDuplicates("aaaaaaaaa"))
-	fmt.Print(heightChecker([]int{1, 1, 4, 2, 1, 3}))
+	//fmt.Print(heightChecker([]int{1, 1, 4, 2, 1, 3}))
+	fmt.Print(gcdOfStrings("TAUXXTAUXXTAUXXTAUXXTAUXX", "TAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXX"))
 
 }
