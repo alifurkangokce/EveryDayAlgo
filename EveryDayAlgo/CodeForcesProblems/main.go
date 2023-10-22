@@ -128,5 +128,6 @@ func main() {
 	//CasimirsStringSolitaire()
 	//ThePairwiseMaxiumus()
 	//Football()
-	EvenOdds()
+	//EvenOdds()
+	TwoBinaryStrings()
 }
