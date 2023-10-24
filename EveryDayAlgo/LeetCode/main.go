@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -219,6 +221,7 @@ func main() {
 	//fmt.Print(heightChecker([]int{1, 1, 4, 2, 1, 3}))
 	//fmt.Print(gcdOfStrings("TAUXXTAUXXTAUXXTAUXXTAUXX", "TAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXX"))
 	//fmt.Print(findOcurrences("alice is a good girl she is a good student", "a", "good"))
-	duplicateZeros([]int{1, 0, 2, 3, 0, 4, 5, 0})
+	//duplicateZeros([]int{1, 0, 2, 3, 0, 4, 5, 0})
+	fmt.Print(distributeCandies2(7, 4))
 
 }
