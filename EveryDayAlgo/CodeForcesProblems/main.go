@@ -129,5 +129,6 @@ func main() {
 	//ThePairwiseMaxiumus()
 	//Football()
 	//EvenOdds()
-	TwoBinaryStrings()
+	//TwoBinaryStrings()
+	ChipsOnTheBoard()
 }
