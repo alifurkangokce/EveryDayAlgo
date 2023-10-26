@@ -223,6 +223,7 @@ func main() {
 	//fmt.Print(findOcurrences("alice is a good girl she is a good student", "a", "good"))
 	//duplicateZeros([]int{1, 0, 2, 3, 0, 4, 5, 0})
 	//fmt.Print(distributeCandies2(7, 4))
-	fmt.Print(relativeSortArray([]int{2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19}, []int{2, 1, 4, 3, 9, 6}))
+	//fmt.Print(relativeSortArray([]int{2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19}, []int{2, 1, 4, 3, 9, 6}))
+	fmt.Print(numEquivDominoPairs([][]int{{1, 2}, {1, 2}, {1, 1}, {1, 2}, {2, 2}}))
 
 }
