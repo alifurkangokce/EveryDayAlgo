@@ -130,5 +130,6 @@ func main() {
 	//Football()
 	//EvenOdds()
 	//TwoBinaryStrings()
-	ChipsOnTheBoard()
+	//ChipsOnTheBoard()
+	MakeItZero()
 }
