@@ -131,5 +131,6 @@ func main() {
 	//EvenOdds()
 	//TwoBinaryStrings()
 	//ChipsOnTheBoard()
-	MakeItZero()
+	//MakeItZero()
+	NotASubString()
 }
