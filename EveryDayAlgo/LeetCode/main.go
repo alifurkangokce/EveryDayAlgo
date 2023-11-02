@@ -226,6 +226,7 @@ func main() {
 	//fmt.Print(relativeSortArray([]int{2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19}, []int{2, 1, 4, 3, 9, 6}))
 	//fmt.Print(numEquivDominoPairs([][]int{{1, 2}, {1, 2}, {1, 1}, {1, 2}, {2, 2}}))
 	//fmt.Print(tribonacci(5))
-	fmt.Print(countCharacters([]string{"cat", "bt", "hat", "tree"}, "atach"))
+	//fmt.Print(countCharacters([]string{"cat", "bt", "hat", "tree"}, "atach"))
+	fmt.Print(dayOfTheWeek(04, 23, 2019))
 
 }
