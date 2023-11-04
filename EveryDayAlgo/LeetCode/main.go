@@ -227,6 +227,7 @@ func main() {
 	//fmt.Print(numEquivDominoPairs([][]int{{1, 2}, {1, 2}, {1, 1}, {1, 2}, {2, 2}}))
 	//fmt.Print(tribonacci(5))
 	//fmt.Print(countCharacters([]string{"cat", "bt", "hat", "tree"}, "atach"))
-	fmt.Print(dayOfTheWeek(04, 23, 2019))
+	//fmt.Print(dayOfTheWeek(04, 23, 2019))
+	fmt.Print(maxNumberOfBalloons("loonbalxballpoon"))
 
 }
