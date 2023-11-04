@@ -132,5 +132,6 @@ func main() {
 	//TwoBinaryStrings()
 	//ChipsOnTheBoard()
 	//MakeItZero()
-	NotASubString()
+	//NotASubString()
+	GoodArrays()
 }
