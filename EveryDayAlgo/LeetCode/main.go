@@ -228,6 +228,7 @@ func main() {
 	//fmt.Print(tribonacci(5))
 	//fmt.Print(countCharacters([]string{"cat", "bt", "hat", "tree"}, "atach"))
 	//fmt.Print(dayOfTheWeek(04, 23, 2019))
-	fmt.Print(maxNumberOfBalloons("loonbalxballpoon"))
+	//fmt.Print(maxNumberOfBalloons("loonbalxballpoon"))
+	fmt.Print(minimumAbsDifference([]int{4, 2, 1, 3}))
 
 }
