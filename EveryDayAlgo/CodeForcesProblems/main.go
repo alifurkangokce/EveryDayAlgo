@@ -133,5 +133,6 @@ func main() {
 	//ChipsOnTheBoard()
 	//MakeItZero()
 	//NotASubString()
-	GoodArrays()
+	//GoodArrays()
+	Rigged()
 }
