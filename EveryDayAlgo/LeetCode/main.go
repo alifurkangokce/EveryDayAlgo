@@ -230,6 +230,7 @@ func main() {
 	//fmt.Print(dayOfTheWeek(04, 23, 2019))
 	//fmt.Print(maxNumberOfBalloons("loonbalxballpoon"))
 	//fmt.Print(minimumAbsDifference([]int{4, 2, 1, 3}))
-	fmt.Print(uniqueOccurrences([]int{1, 2, 2, 1, 1, 3}))
+	//fmt.Print(uniqueOccurrences([]int{1, 2, 2, 1, 1, 3}))
+	fmt.Print(minCostToMoveChips([]int{1, 2, 3}))
 
 }
