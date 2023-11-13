@@ -231,6 +231,7 @@ func main() {
 	//fmt.Print(maxNumberOfBalloons("loonbalxballpoon"))
 	//fmt.Print(minimumAbsDifference([]int{4, 2, 1, 3}))
 	//fmt.Print(uniqueOccurrences([]int{1, 2, 2, 1, 1, 3}))
-	fmt.Print(minCostToMoveChips([]int{1, 2, 3}))
+	//fmt.Print(minCostToMoveChips([]int{1, 2, 3}))
+	fmt.Print(balancedStringSplit("RLRRRLLRLL"))
 
 }
