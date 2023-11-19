@@ -134,5 +134,6 @@ func main() {
 	//MakeItZero()
 	//NotASubString()
 	//GoodArrays()
-	Rigged()
+	//Rigged()
+	Chemistry()
 }
