@@ -135,5 +135,6 @@ func main() {
 	//NotASubString()
 	//GoodArrays()
 	//Rigged()
-	Chemistry()
+	//Chemistry()
+	HQNinePlus()
 }
