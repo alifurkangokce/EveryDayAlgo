@@ -237,6 +237,7 @@ func main() {
 	//fmt.Print(shiftGrid([][]int{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}, 1))
 	//fmt.Print(minTimeToVisitAllPoints([][]int{{1, 1}, {3, 4}, {-1, 0}}))
 	//fmt.Print(tictactoe([][]int{{0, 2}, {2, 0}, {1, 1}, {2, 1}, {2, 2}}))
-	fmt.Print(subtractProductAndSum(234))
+	//fmt.Print(subtractProductAndSum(234))
+	fmt.Print(findSpecialInteger([]int{1, 1}))
 
 }
