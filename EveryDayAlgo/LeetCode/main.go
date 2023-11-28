@@ -238,6 +238,7 @@ func main() {
 	//fmt.Print(minTimeToVisitAllPoints([][]int{{1, 1}, {3, 4}, {-1, 0}}))
 	//fmt.Print(tictactoe([][]int{{0, 2}, {2, 0}, {1, 1}, {2, 1}, {2, 2}}))
 	//fmt.Print(subtractProductAndSum(234))
-	fmt.Print(findSpecialInteger([]int{1, 1}))
+	//fmt.Print(findSpecialInteger([]int{1, 1}))
+	fmt.Print(getDecimalValue(&ListNode{Val: 1, Next: &ListNode{Val: 0, Next: &ListNode{Val: 1}}}))
 
 }
