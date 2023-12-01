@@ -240,5 +240,6 @@ func main() {
 	//fmt.Print(subtractProductAndSum(234))
 	//fmt.Print(findSpecialInteger([]int{1, 1}))
 	//fmt.Print(getDecimalValue(&ListNode{Val: 1, Next: &ListNode{Val: 0, Next: &ListNode{Val: 1}}}))
-	fmt.Print(findNumbers([]int{12, 345, 2, 6, 1234}))
+	//fmt.Print(findNumbers([]int{12, 345, 2, 6, 1234}))
+	fmt.Print(replaceElements([]int{17, 18, 5, 4, 6, 1}))
 }
