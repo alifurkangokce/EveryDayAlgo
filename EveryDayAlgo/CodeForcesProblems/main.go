@@ -136,5 +136,6 @@ func main() {
 	//GoodArrays()
 	//Rigged()
 	//Chemistry()
-	HQNinePlus()
+	//HQNinePlus()
+	GravityFlip()
 }
