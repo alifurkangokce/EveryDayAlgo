@@ -241,5 +241,6 @@ func main() {
 	//fmt.Print(findSpecialInteger([]int{1, 1}))
 	//fmt.Print(getDecimalValue(&ListNode{Val: 1, Next: &ListNode{Val: 0, Next: &ListNode{Val: 1}}}))
 	//fmt.Print(findNumbers([]int{12, 345, 2, 6, 1234}))
-	fmt.Print(replaceElements([]int{17, 18, 5, 4, 6, 1}))
+	//fmt.Print(replaceElements([]int{17, 18, 5, 4, 6, 1}))
+	fmt.Print(sumZero(1))
 }
