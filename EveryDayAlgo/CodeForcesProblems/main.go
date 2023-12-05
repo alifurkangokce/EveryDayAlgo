@@ -137,5 +137,6 @@ func main() {
 	//Rigged()
 	//Chemistry()
 	//HQNinePlus()
-	GravityFlip()
+	//GravityFlip()
+	KefaAndFirstSteps()
 }
