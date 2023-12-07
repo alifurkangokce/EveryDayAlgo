@@ -243,5 +243,6 @@ func main() {
 	//fmt.Print(findNumbers([]int{12, 345, 2, 6, 1234}))
 	//fmt.Print(replaceElements([]int{17, 18, 5, 4, 6, 1}))
 	//fmt.Print(sumZero(1))
-	fmt.Print(freqAlphabets("10#11#12"))
+	//fmt.Print(freqAlphabets("10#11#12"))
+	fmt.Print(decompressRLElist([]int{1, 1, 2, 3}))
 }
