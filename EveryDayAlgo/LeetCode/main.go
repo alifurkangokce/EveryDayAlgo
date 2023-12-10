@@ -244,5 +244,6 @@ func main() {
 	//fmt.Print(replaceElements([]int{17, 18, 5, 4, 6, 1}))
 	//fmt.Print(sumZero(1))
 	//fmt.Print(freqAlphabets("10#11#12"))
-	fmt.Print(decompressRLElist([]int{1, 1, 2, 3}))
+	//fmt.Print(decompressRLElist([]int{1, 1, 2, 3}))
+	fmt.Print(maximum69Number(9669))
 }
