@@ -246,5 +246,6 @@ func main() {
 	//fmt.Print(freqAlphabets("10#11#12"))
 	//fmt.Print(decompressRLElist([]int{1, 1, 2, 3}))
 	//fmt.Print(maximum69Number(9669))
-	fmt.Print(getNoZeroIntegers(1010))
+	//fmt.Print(getNoZeroIntegers(1010))
+	fmt.Print(arrayRankTransform([]int{37, 12, 28, 9, 100, 56, 80, 5, 12}))
 }
