@@ -247,5 +247,7 @@ func main() {
 	//fmt.Print(decompressRLElist([]int{1, 1, 2, 3}))
 	//fmt.Print(maximum69Number(9669))
 	//fmt.Print(getNoZeroIntegers(1010))
-	fmt.Print(arrayRankTransform([]int{37, 12, 28, 9, 100, 56, 80, 5, 12}))
+	//fmt.Print(arrayRankTransform([]int{37, 12, 28, 9, 100, 56, 80, 5, 12}))
+	//fmt.Print(removePalindromeSub("abba"))
+	fmt.Print(kWeakestRows([][]int{[]int{1, 1, 0, 0, 0}, []int{1, 1, 1, 1, 0}, []int{1, 0, 0, 0, 0}, []int{1, 1, 0, 0, 0}, []int{1, 1, 1, 1, 1}}, 3))
 }
