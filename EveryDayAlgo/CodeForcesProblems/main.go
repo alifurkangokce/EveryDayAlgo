@@ -138,5 +138,6 @@ func main() {
 	//Chemistry()
 	//HQNinePlus()
 	//GravityFlip()
-	KefaAndFirstSteps()
+	//KefaAndFirstSteps()
+	ShortSort()
 }
