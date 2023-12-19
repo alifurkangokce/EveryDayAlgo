@@ -139,5 +139,6 @@ func main() {
 	//HQNinePlus()
 	//GravityFlip()
 	//KefaAndFirstSteps()
-	ShortSort()
+	//ShortSort()
+	GoodKid()
 }
