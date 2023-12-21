@@ -252,5 +252,6 @@ func main() {
 	//fmt.Print(kWeakestRows([][]int{[]int{1, 1, 0, 0, 0}, []int{1, 1, 1, 1, 0}, []int{1, 0, 0, 0, 0}, []int{1, 1, 0, 0, 0}, []int{1, 1, 1, 1, 1}}, 3))
 	//fmt.Print(numberOfSteps(123))
 	//fmt.Print(countNegatives([][]int{{1, 1}, {0, 0}}))
-	fmt.Print(sortByBits([]int{0, 1, 2, 3, 4, 5, 6}))
+	//fmt.Print(sortByBits([]int{0, 1, 2, 3, 4, 5, 6}))
+	fmt.Print(smallerNumbersThanCurrent([]int{8, 1, 2, 2, 3}))
 }
