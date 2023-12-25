@@ -256,5 +256,6 @@ func main() {
 	//fmt.Print(smallerNumbersThanCurrent([]int{8, 1, 2, 2, 3}))
 	//fmt.Print(sortString("asdsad"))
 	//fmt.Print(generateTheString(6))
-	fmt.Print(luckyNumbers([][]int{[]int{1, 10, 4, 2}, []int{9, 3, 8, 7}, []int{15, 16, 17, 12}}))
+	//fmt.Print(luckyNumbers([][]int{[]int{1, 10, 4, 2}, []int{9, 3, 8, 7}, []int{15, 16, 17, 12}}))
+	fmt.Print(createTargetArray([]int{0, 1, 2, 3, 4}, []int{0, 1, 2, 2, 1}))
 }
