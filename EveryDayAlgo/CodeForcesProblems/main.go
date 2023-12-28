@@ -141,5 +141,6 @@ func main() {
 	//KefaAndFirstSteps()
 	//ShortSort()
 	//GoodKid()
-	GrabtheCandies()
+	//GrabtheCandies()
+	LeastProduct()
 }
