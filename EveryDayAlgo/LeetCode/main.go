@@ -259,5 +259,6 @@ func main() {
 	//fmt.Print(luckyNumbers([][]int{[]int{1, 10, 4, 2}, []int{9, 3, 8, 7}, []int{15, 16, 17, 12}}))
 	//fmt.Print(createTargetArray([]int{0, 1, 2, 3, 4}, []int{0, 1, 2, 2, 1}))
 	//fmt.Print(findLucky([]int{2, 2, 2, 3, 3}))
-	fmt.Print(findTheDistanceValue([]int{1, 4, 2, 3}, []int{-4, -3, 6, 10, 20, 30}, 3))
+	//fmt.Print(findTheDistanceValue([]int{1, 4, 2, 3}, []int{-4, -3, 6, 10, 20, 30}, 3))
+	fmt.Print(countLargestGroup(20))
 }
