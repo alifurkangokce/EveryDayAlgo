@@ -142,5 +142,6 @@ func main() {
 	//ShortSort()
 	//GoodKid()
 	//GrabtheCandies()
-	LeastProduct()
+	//LeastProduct()
+	TenWordsofWisdom()
 }
