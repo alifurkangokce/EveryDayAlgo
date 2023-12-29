@@ -260,5 +260,6 @@ func main() {
 	//fmt.Print(createTargetArray([]int{0, 1, 2, 3, 4}, []int{0, 1, 2, 2, 1}))
 	//fmt.Print(findLucky([]int{2, 2, 2, 3, 3}))
 	//fmt.Print(findTheDistanceValue([]int{1, 4, 2, 3}, []int{-4, -3, 6, 10, 20, 30}, 3))
-	fmt.Print(countLargestGroup(20))
+	//fmt.Print(countLargestGroup(20))
+	fmt.Print(minSubsequence([]int{4, 4, 7, 6, 7}))
 }
