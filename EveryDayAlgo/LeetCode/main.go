@@ -262,5 +262,6 @@ func main() {
 	//fmt.Print(findTheDistanceValue([]int{1, 4, 2, 3}, []int{-4, -3, 6, 10, 20, 30}, 3))
 	//fmt.Print(countLargestGroup(20))
 	//fmt.Print(minSubsequence([]int{4, 4, 7, 6, 7}))
-	fmt.Print(stringMatching([]string{"mass", "as", "hero", "superhero"}))
+	//fmt.Print(stringMatching([]string{"mass", "as", "hero", "superhero"}))
+	fmt.Print(minStartValue([]int{2, 3, 5, -5, -1}))
 }
