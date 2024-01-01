@@ -145,5 +145,6 @@ func main() {
 	//LeastProduct()
 	//TenWordsofWisdom()
 	//Triple()
-	WordonthePaper()
+	//WordonthePaper()
+	LCMProblem()
 }
