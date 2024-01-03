@@ -265,5 +265,6 @@ func main() {
 	//fmt.Print(stringMatching([]string{"mass", "as", "hero", "superhero"}))
 	//fmt.Print(minStartValue([]int{2, 3, 5, -5, -1}))
 	//fmt.Print(checkStraightLine([][]int{[]int{0, 0}, []int{0, 1}, []int{0, -1}}))
-	fmt.Print(reformat("ab12c"))
+	//fmt.Print(reformat("ab12c"))
+	fmt.Print(maxScore("011101"))
 }
