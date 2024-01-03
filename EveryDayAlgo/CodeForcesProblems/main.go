@@ -146,5 +146,6 @@ func main() {
 	//TenWordsofWisdom()
 	//Triple()
 	//WordonthePaper()
-	LCMProblem()
+	//LCMProblem()
+	PrependandAppend()
 }
