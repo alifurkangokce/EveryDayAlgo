@@ -147,5 +147,6 @@ func main() {
 	//Triple()
 	//WordonthePaper()
 	//LCMProblem()
-	PrependandAppend()
+	//PrependandAppend()
+	EhAbAnDgCd()
 }
