@@ -266,5 +266,6 @@ func main() {
 	//fmt.Print(minStartValue([]int{2, 3, 5, -5, -1}))
 	//fmt.Print(checkStraightLine([][]int{[]int{0, 0}, []int{0, 1}, []int{0, -1}}))
 	//fmt.Print(reformat("ab12c"))
-	fmt.Print(maxScore("011101"))
+	//fmt.Print(maxScore("011101"))
+	fmt.Print(kidsWithCandies([]int{4, 2, 1, 1, 2}, 1))
 }
