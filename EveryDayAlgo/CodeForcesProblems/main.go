@@ -148,5 +148,6 @@ func main() {
 	//WordonthePaper()
 	//LCMProblem()
 	//PrependandAppend()
-	EhAbAnDgCd()
+	//EhAbAnDgCd()
+	MaximumInTable()
 }
