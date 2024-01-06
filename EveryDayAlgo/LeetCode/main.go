@@ -268,5 +268,6 @@ func main() {
 	//fmt.Print(reformat("ab12c"))
 	//fmt.Print(maxScore("011101"))
 	//fmt.Print(kidsWithCandies([]int{4, 2, 1, 1, 2}, 1))
-	fmt.Print(destCity([][]string{{"B", "C"}, {"D", "B"}, {"C", "A"}}))
+	//fmt.Print(destCity([][]string{{"B", "C"}, {"D", "B"}, {"C", "A"}}))
+	fmt.Print(kLengthApart([]int{1, 0, 0, 0, 1, 0, 0, 1}, 2))
 }
