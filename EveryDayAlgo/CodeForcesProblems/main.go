@@ -149,5 +149,6 @@ func main() {
 	//LCMProblem()
 	//PrependandAppend()
 	//EhAbAnDgCd()
-	MaximumInTable()
+	//MaximumInTable()
+	OddOneOut()
 }
