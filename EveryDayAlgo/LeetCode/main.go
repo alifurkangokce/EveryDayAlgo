@@ -270,5 +270,6 @@ func main() {
 	//fmt.Print(kidsWithCandies([]int{4, 2, 1, 1, 2}, 1))
 	//fmt.Print(destCity([][]string{{"B", "C"}, {"D", "B"}, {"C", "A"}}))
 	//fmt.Print(kLengthApart([]int{1, 0, 0, 0, 1, 0, 0, 1}, 2))
-	fmt.Print(maxPower("cc"))
+	//fmt.Print(maxPower("cc"))
+	fmt.Print(busyStudent([]int{1, 2, 3}, []int{3, 2, 7}, 4))
 }
