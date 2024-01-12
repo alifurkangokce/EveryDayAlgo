@@ -151,5 +151,6 @@ func main() {
 	//EhAbAnDgCd()
 	//MaximumInTable()
 	//OddOneOut()
-	BlankSpace()
+	//BlankSpace()
+	GennadyandaCardGame()
 }
