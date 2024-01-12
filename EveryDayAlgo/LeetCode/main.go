@@ -274,5 +274,6 @@ func main() {
 	//fmt.Print(busyStudent([]int{1, 2, 3}, []int{3, 2, 7}, 4))
 	//fmt.Print(isPrefixOfWord("leetcode corona", "leetco"))
 	//fmt.Print(canBeEqual([]int{7}, []int{7}))
-	fmt.Print(maxProduct([]int{3, 4, 5, 2}))
+	//fmt.Print(maxProduct([]int{3, 4, 5, 2}))
+	fmt.Print(shuffle([]int{2, 5, 1, 3, 4, 7}, 3))
 }
