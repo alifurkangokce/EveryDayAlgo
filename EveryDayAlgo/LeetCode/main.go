@@ -277,5 +277,6 @@ func main() {
 	//fmt.Print(maxProduct([]int{3, 4, 5, 2}))
 	//fmt.Print(shuffle([]int{2, 5, 1, 3, 4, 7}, 3))
 	//fmt.Print(finalPrices([]int{8, 4, 6, 2, 3}))
-	fmt.Print(runningSum([]int{1, 2, 3, 4}))
+	//fmt.Print(runningSum([]int{1, 2, 3, 4}))
+	fmt.Print(xorOperation(4, 3))
 }
