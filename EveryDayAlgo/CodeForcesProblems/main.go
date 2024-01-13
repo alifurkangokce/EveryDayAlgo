@@ -152,5 +152,6 @@ func main() {
 	//MaximumInTable()
 	//OddOneOut()
 	//BlankSpace()
-	GennadyandaCardGame()
+	//GennadyandaCardGame()
+	RestorethePermutationbyMerger()
 }
