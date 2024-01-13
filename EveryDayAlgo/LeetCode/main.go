@@ -275,5 +275,6 @@ func main() {
 	//fmt.Print(isPrefixOfWord("leetcode corona", "leetco"))
 	//fmt.Print(canBeEqual([]int{7}, []int{7}))
 	//fmt.Print(maxProduct([]int{3, 4, 5, 2}))
-	fmt.Print(shuffle([]int{2, 5, 1, 3, 4, 7}, 3))
+	//fmt.Print(shuffle([]int{2, 5, 1, 3, 4, 7}, 3))
+	fmt.Print(finalPrices([]int{8, 4, 6, 2, 3}))
 }
