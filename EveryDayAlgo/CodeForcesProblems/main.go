@@ -153,5 +153,6 @@ func main() {
 	//OddOneOut()
 	//BlankSpace()
 	//GennadyandaCardGame()
-	RestorethePermutationbyMerger()
+	//RestorethePermutationbyMerger()
+	Cplusequal()
 }
