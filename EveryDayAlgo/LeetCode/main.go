@@ -280,5 +280,6 @@ func main() {
 	//fmt.Print(runningSum([]int{1, 2, 3, 4}))
 	//fmt.Print(xorOperation(4, 3))
 	//fmt.Print(average([]int{4000, 3000, 1000, 2000}))
-	fmt.Print(isPathCrossing("NESWW"))
+	//fmt.Print(isPathCrossing("NESWW"))
+	fmt.Print(canMakeArithmeticProgression([]int{3, 5, 1}))
 }
