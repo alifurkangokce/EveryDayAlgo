@@ -282,5 +282,6 @@ func main() {
 	//fmt.Print(average([]int{4000, 3000, 1000, 2000}))
 	//fmt.Print(isPathCrossing("NESWW"))
 	//fmt.Print(canMakeArithmeticProgression([]int{3, 5, 1}))
-	fmt.Print(numIdenticalPairs([]int{1, 2, 3, 1, 1, 3}))
+	//fmt.Print(numIdenticalPairs([]int{1, 2, 3, 1, 1, 3}))
+	fmt.Print(numWaterBottles(17, 3))
 }
