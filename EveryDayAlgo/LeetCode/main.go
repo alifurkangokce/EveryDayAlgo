@@ -281,5 +281,6 @@ func main() {
 	//fmt.Print(xorOperation(4, 3))
 	//fmt.Print(average([]int{4000, 3000, 1000, 2000}))
 	//fmt.Print(isPathCrossing("NESWW"))
-	fmt.Print(canMakeArithmeticProgression([]int{3, 5, 1}))
+	//fmt.Print(canMakeArithmeticProgression([]int{3, 5, 1}))
+	fmt.Print(numIdenticalPairs([]int{1, 2, 3, 1, 1, 3}))
 }
