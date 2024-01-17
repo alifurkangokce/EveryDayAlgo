@@ -155,5 +155,6 @@ func main() {
 	//GennadyandaCardGame()
 	//RestorethePermutationbyMerger()
 	//Cplusequal()
-	TwoVessels()
+	//TwoVessels()
+	TwoDivisors()
 }
