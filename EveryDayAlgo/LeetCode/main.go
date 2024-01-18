@@ -283,5 +283,6 @@ func main() {
 	//fmt.Print(isPathCrossing("NESWW"))
 	//fmt.Print(canMakeArithmeticProgression([]int{3, 5, 1}))
 	//fmt.Print(numIdenticalPairs([]int{1, 2, 3, 1, 1, 3}))
-	fmt.Print(numWaterBottles(17, 3))
+	//fmt.Print(numWaterBottles(17, 3))
+	fmt.Print(countOdds(8, 10))
 }
