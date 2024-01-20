@@ -284,5 +284,7 @@ func main() {
 	//fmt.Print(canMakeArithmeticProgression([]int{3, 5, 1}))
 	//fmt.Print(numIdenticalPairs([]int{1, 2, 3, 1, 1, 3}))
 	//fmt.Print(numWaterBottles(17, 3))
-	fmt.Print(countOdds(8, 10))
+	//fmt.Print(countOdds(8, 10))
+	//fmt.Print(restoreString("codeleet", []int{4, 5, 6, 7, 0, 2, 1, 3}))
+	fmt.Print(countGoodTriplets([]int{1, 1, 2, 2, 3}, 0, 0, 1))
 }
