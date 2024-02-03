@@ -288,5 +288,6 @@ func main() {
 	//fmt.Print(restoreString("codeleet", []int{4, 5, 6, 7, 0, 2, 1, 3}))
 	//fmt.Print(countGoodTriplets([]int{1, 1, 2, 2, 3}, 0, 0, 1))
 	//fmt.Print(findKthPositive([]int{1, 2, 3, 4}, 2))
-	fmt.Print(makeGood("leEeetcode"))
+	//fmt.Print(makeGood("leEeetcode"))
+	fmt.Print(threeConsecutiveOdds([]int{2, 6, 4, 1}))
 }
