@@ -289,5 +289,6 @@ func main() {
 	//fmt.Print(countGoodTriplets([]int{1, 1, 2, 2, 3}, 0, 0, 1))
 	//fmt.Print(findKthPositive([]int{1, 2, 3, 4}, 2))
 	//fmt.Print(makeGood("leEeetcode"))
-	fmt.Print(threeConsecutiveOdds([]int{2, 6, 4, 1}))
+	//fmt.Print(threeConsecutiveOdds([]int{2, 6, 4, 1}))
+	fmt.Print(thousandSeparator(1234567))
 }
