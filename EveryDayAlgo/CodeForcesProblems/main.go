@@ -157,5 +157,6 @@ func main() {
 	//Cplusequal()
 	//TwoVessels()
 	//TwoDivisors()
-	Dubstep()
+	//Dubstep()
+	GameWithSticks()
 }
