@@ -158,5 +158,6 @@ func main() {
 	//TwoVessels()
 	//TwoDivisors()
 	//Dubstep()
-	GameWithSticks()
+	//GameWithSticks()
+	Puzzles()
 }
