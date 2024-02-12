@@ -292,5 +292,6 @@ func main() {
 	//fmt.Print(threeConsecutiveOdds([]int{2, 6, 4, 1}))
 	//fmt.Print(thousandSeparator(1234567))
 	//fmt.Print(mostVisited(4, []int{1, 3, 1, 2}))
-	fmt.Print(diagonalSum([][]int{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}))
+	//fmt.Print(diagonalSum([][]int{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}))
+	fmt.Print(containsPattern([]int{1, 2, 4, 4, 4, 4}, 1, 3))
 }
