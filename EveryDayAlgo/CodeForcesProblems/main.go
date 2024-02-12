@@ -159,5 +159,6 @@ func main() {
 	//TwoDivisors()
 	//Dubstep()
 	//GameWithSticks()
-	Puzzles()
+	//Puzzles()
+	IlyaandBankAccount()
 }
