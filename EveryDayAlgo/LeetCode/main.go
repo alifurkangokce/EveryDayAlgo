@@ -295,5 +295,6 @@ func main() {
 	//fmt.Print(diagonalSum([][]int{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}))
 	//fmt.Print(containsPattern([]int{1, 2, 4, 4, 4, 4}, 1, 3))
 	//fmt.Print(modifyString("??yw?ipkj?"))
-	fmt.Print(numSpecial([][]int{{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}))
+	//fmt.Print(numSpecial([][]int{{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}))
+	fmt.Print(sumOddLengthSubarrays([]int{1, 4, 2, 5, 3}))
 }
