@@ -160,5 +160,6 @@ func main() {
 	//Dubstep()
 	//GameWithSticks()
 	//Puzzles()
-	IlyaandBankAccount()
+	//IlyaandBankAccount()
+	Square()
 }
