@@ -161,5 +161,6 @@ func main() {
 	//GameWithSticks()
 	//Puzzles()
 	//IlyaandBankAccount()
-	Square()
+	//Square()
+	MakeitWhite()
 }
