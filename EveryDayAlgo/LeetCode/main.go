@@ -296,5 +296,6 @@ func main() {
 	//fmt.Print(containsPattern([]int{1, 2, 4, 4, 4, 4}, 1, 3))
 	//fmt.Print(modifyString("??yw?ipkj?"))
 	//fmt.Print(numSpecial([][]int{{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}))
-	fmt.Print(sumOddLengthSubarrays([]int{1, 4, 2, 5, 3}))
+	//fmt.Print(sumOddLengthSubarrays([]int{1, 4, 2, 5, 3}))
+	fmt.Print(reorderSpaces(" practice   makes   perfect"))
 }
