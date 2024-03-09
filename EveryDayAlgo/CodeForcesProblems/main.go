@@ -162,5 +162,6 @@ func main() {
 	//Puzzles()
 	//IlyaandBankAccount()
 	//Square()
-	MakeitWhite()
+	//MakeitWhite()
+	OddDivisor()
 }
