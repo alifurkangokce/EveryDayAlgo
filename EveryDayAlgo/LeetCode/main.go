@@ -298,5 +298,6 @@ func main() {
 	//fmt.Print(numSpecial([][]int{{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}))
 	//fmt.Print(sumOddLengthSubarrays([]int{1, 4, 2, 5, 3}))
 	//fmt.Print(reorderSpaces(" practice   makes   perfect"))
-	fmt.Print(minOperations([]string{"./", "wz4/", "../", "mj2/", "../", "../", "ik0/", "il7/"}))
+	//fmt.Print(minOperations([]string{"./", "wz4/", "../", "mj2/", "../", "../", "ik0/", "il7/"}))
+	fmt.Print(specialArray([]int{0, 4, 3, 0, 4}))
 }
