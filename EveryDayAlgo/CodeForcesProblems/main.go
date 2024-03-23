@@ -163,5 +163,6 @@ func main() {
 	//IlyaandBankAccount()
 	//Square()
 	//MakeitWhite()
-	OddDivisor()
+	//OddDivisor()
+	VladandtheBestofFive()
 }
