@@ -300,5 +300,6 @@ func main() {
 	//fmt.Print(reorderSpaces(" practice   makes   perfect"))
 	//fmt.Print(minOperations([]string{"./", "wz4/", "../", "mj2/", "../", "../", "ik0/", "il7/"}))
 	//fmt.Print(specialArray([]int{0, 4, 3, 0, 4}))
-	fmt.Print(maxDepthNesting("(1+(2*3)+((8)/4))+1"))
+	//fmt.Print(maxDepthNesting("(1+(2*3)+((8)/4))+1"))
+	fmt.Print(trimMean([]int{9, 7, 8, 7, 7, 8, 4, 4, 6, 8, 8, 7, 6, 8, 8, 9, 2, 6, 0, 0, 1, 10, 8, 6, 3, 3, 5, 1, 10, 9, 0, 7, 10, 0, 10, 4, 1, 10, 6, 9, 3, 6, 0, 0, 2, 7, 0, 6, 7, 2, 9, 7, 7, 3, 0, 1, 6, 1, 10, 3}))
 }
