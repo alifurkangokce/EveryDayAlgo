@@ -164,5 +164,6 @@ func main() {
 	//Square()
 	//MakeitWhite()
 	//OddDivisor()
-	VladandtheBestofFive()
+	//VladandtheBestofFive()
+	Sale()
 }
