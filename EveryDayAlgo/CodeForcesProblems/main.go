@@ -165,5 +165,6 @@ func main() {
 	//MakeitWhite()
 	//OddDivisor()
 	//VladandtheBestofFive()
-	Sale()
+	//Sale()
+	StringTask()
 }
