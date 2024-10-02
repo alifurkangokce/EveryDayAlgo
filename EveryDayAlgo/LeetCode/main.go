@@ -304,5 +304,6 @@ func main() {
 	//fmt.Print(trimMean([]int{9, 7, 8, 7, 7, 8, 4, 4, 6, 8, 8, 7, 6, 8, 8, 9, 2, 6, 0, 0, 1, 10, 8, 6, 3, 3, 5, 1, 10, 9, 0, 7, 10, 0, 10, 4, 1, 10, 6, 9, 3, 6, 0, 0, 2, 7, 0, 6, 7, 2, 9, 7, 7, 3, 0, 1, 6, 1, 10, 3}))
 	//fmt.Print(maxLengthBetweenEqualCharacters("cbzxy"))
 	//fmt.Print(slowestKey([]int{12, 23, 36, 46, 62}, "spuda"))
-	fmt.Print(frequencySort([]int{3, 8, 7, -7, 5, 3, -7}))
+	//fmt.Print(frequencySort([]int{3, 8, 7, -7, 5, 3, -7}))
+	fmt.Print(maxWidthOfVerticalArea([][]int{{8, 7}, {9, 9}, {7, 4}, {9, 7}}))
 }
