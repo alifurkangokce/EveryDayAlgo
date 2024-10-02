@@ -166,5 +166,6 @@ func main() {
 	//OddDivisor()
 	//VladandtheBestofFive()
 	//Sale()
-	StringTask()
+	//StringTask()
+	YoungPhysicist()
 }
