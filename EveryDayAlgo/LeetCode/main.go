@@ -305,5 +305,6 @@ func main() {
 	//fmt.Print(maxLengthBetweenEqualCharacters("cbzxy"))
 	//fmt.Print(slowestKey([]int{12, 23, 36, 46, 62}, "spuda"))
 	//fmt.Print(frequencySort([]int{3, 8, 7, -7, 5, 3, -7}))
-	fmt.Print(maxWidthOfVerticalArea([][]int{{8, 7}, {9, 9}, {7, 4}, {9, 7}}))
+	//fmt.Print(maxWidthOfVerticalArea([][]int{{8, 7}, {9, 9}, {7, 4}, {9, 7}}))
+	fmt.Print(canFormArray([]int{91, 4, 64, 78}, [][]int{{78}, {4, 64}, {91}}))
 }
