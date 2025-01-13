@@ -167,5 +167,6 @@ func main() {
 	//VladandtheBestofFive()
 	//Sale()
 	//StringTask()
-	YoungPhysicist()
+	//YoungPhysicist()
+	Candies()
 }
