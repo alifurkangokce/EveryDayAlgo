@@ -307,4 +307,14 @@ func main() {
 	//fmt.Print(canFormArray([]int{91, 4, 64, 78}, [][]int{{78}, {4, 64}, {91}}))
 	//fmt.Print(getMaximumGenerated(7))
 	//fmt.Print(decrypt([]int{5, 7, 1, 4}, 3))
+	// OrderedStream'i oluştur
+	// os := Constructor2(5)
+
+	// // Insert fonksiyonunu çağır ve sonuçları yazdır
+	// fmt.Println(os.Insert(3, "ccccc")) // []
+	// fmt.Println(os.Insert(1, "aaaaa")) // ["aaaaa"]
+	// fmt.Println(os.Insert(2, "bbbbb")) // ["bbbbb", "ccccc"]
+	// fmt.Println(os.Insert(5, "eeeee")) // []
+	// fmt.Println(os.Insert(4, "ddddd")) // ["ddddd", "eeeee"]
+
 }
