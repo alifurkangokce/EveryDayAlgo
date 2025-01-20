@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -308,5 +306,5 @@ func main() {
 	//fmt.Print(maxWidthOfVerticalArea([][]int{{8, 7}, {9, 9}, {7, 4}, {9, 7}}))
 	//fmt.Print(canFormArray([]int{91, 4, 64, 78}, [][]int{{78}, {4, 64}, {91}}))
 	//fmt.Print(getMaximumGenerated(7))
-	fmt.Print(decrypt([]int{5, 7, 1, 4}, 3))
+	//fmt.Print(decrypt([]int{5, 7, 1, 4}, 3))
 }
