@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -316,5 +318,5 @@ func main() {
 	// fmt.Println(os.Insert(2, "bbbbb")) // ["bbbbb", "ccccc"]
 	// fmt.Println(os.Insert(5, "eeeee")) // []
 	// fmt.Println(os.Insert(4, "ddddd")) // ["ddddd", "eeeee"]
-
+	fmt.Print(maximumWealth([][]int{{1, 2, 3}, {3, 2, 1}}))
 }
