@@ -321,5 +321,6 @@ func main() {
 	//fmt.Print(maximumWealth([][]int{{1, 2, 3}, {3, 2, 1}}))
 	//fmt.Print(interpret("G()(al)"))
 	//fmt.Print(countConsistentStrings("abc", []string{"a", "b", "c", "ab", "ac", "bc", "abc"}))
-	fmt.Print(numberOfMatches(7))
+	//fmt.Print(numberOfMatches(7))
+	fmt.Println(reformatNumber("1-23-45 6"))
 }
