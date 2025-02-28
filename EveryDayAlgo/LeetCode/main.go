@@ -320,5 +320,6 @@ func main() {
 	// fmt.Println(os.Insert(4, "ddddd")) // ["ddddd", "eeeee"]
 	//fmt.Print(maximumWealth([][]int{{1, 2, 3}, {3, 2, 1}}))
 	//fmt.Print(interpret("G()(al)"))
-	fmt.Print(countConsistentStrings("abc", []string{"a", "b", "c", "ab", "ac", "bc", "abc"}))
+	//fmt.Print(countConsistentStrings("abc", []string{"a", "b", "c", "ab", "ac", "bc", "abc"}))
+	fmt.Print(numberOfMatches(7))
 }
