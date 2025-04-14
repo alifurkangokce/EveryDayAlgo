@@ -169,5 +169,6 @@ func main() {
 	//StringTask()
 	//YoungPhysicist()
 	//Candies()
-	ChatRoom()
+	//ChatRoom()
+	LuckyDivision()
 }
