@@ -170,5 +170,6 @@ func main() {
 	//YoungPhysicist()
 	//Candies()
 	//ChatRoom()
-	LuckyDivision()
+	//LuckyDivision()
+	Expression()
 }
