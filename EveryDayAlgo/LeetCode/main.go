@@ -323,5 +323,6 @@ func main() {
 	//fmt.Print(countConsistentStrings("abc", []string{"a", "b", "c", "ab", "ac", "bc", "abc"}))
 	//fmt.Print(numberOfMatches(7))
 	//fmt.Println(reformatNumber("1-23-45 6"))
-	fmt.Print(countStudents([]int{1, 1, 0, 0}, []int{0, 1, 0, 1}))
+	//fmt.Print(countStudents([]int{1, 1, 0, 0}, []int{0, 1, 0, 1}))
+	fmt.Print(halvesAreAlike("textbook"))
 }
