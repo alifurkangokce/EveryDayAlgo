@@ -171,5 +171,6 @@ func main() {
 	//Candies()
 	//ChatRoom()
 	//LuckyDivision()
-	Expression()
+	// Expression()
+	IqTest()
 }
