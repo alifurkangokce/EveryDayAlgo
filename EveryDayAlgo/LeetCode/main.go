@@ -325,5 +325,6 @@ func main() {
 	//fmt.Println(reformatNumber("1-23-45 6"))
 	//fmt.Print(countStudents([]int{1, 1, 0, 0}, []int{0, 1, 0, 1}))
 	//fmt.Print(halvesAreAlike("textbook"))
-	fmt.Print(maximumUnits([][]int{{1, 3}, {2, 2}, {3, 1}}, 4))
+	//fmt.Print(maximumUnits([][]int{{1, 3}, {2, 2}, {3, 1}}, 4))
+	fmt.Print(totalMoney(10))
 }
