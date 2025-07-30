@@ -172,5 +172,6 @@ func main() {
 	//ChatRoom()
 	//LuckyDivision()
 	// Expression()
-	IqTest()
+	//IqTest()
+	CapsLock()
 }
