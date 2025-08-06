@@ -173,5 +173,6 @@ func main() {
 	//LuckyDivision()
 	// Expression()
 	//IqTest()
-	CapsLock()
+	//CapsLock()
+	Dragons()
 }
