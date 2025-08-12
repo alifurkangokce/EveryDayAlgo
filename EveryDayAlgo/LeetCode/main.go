@@ -327,5 +327,6 @@ func main() {
 	//fmt.Print(halvesAreAlike("textbook"))
 	//fmt.Print(maximumUnits([][]int{{1, 3}, {2, 2}, {3, 1}}, 4))
 	//fmt.Print(totalMoney(10))
-	fmt.Print(decode([]int{1, 2, 3}, 1))
+	//fmt.Print(decode([]int{1, 2, 3}, 1))
+	fmt.Print(countGoodRectangles([][]int{{5, 8}, {3, 9}, {5, 12}, {16, 5}}))
 }
