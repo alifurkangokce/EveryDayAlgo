@@ -330,5 +330,6 @@ func main() {
 	//fmt.Print(decode([]int{1, 2, 3}, 1))
 	// fmt.Print(countGoodRectangles([][]int{{5, 8}, {3, 9}, {5, 12}, {16, 5}}))
 	// fmt.Print(largestAltitude([]int{52, -91, 72}))
-	fmt.Print(countBalls(1, 10))
+	//fmt.Print(countBalls(1, 10))
+	fmt.Print(check([]int{6, 10, 6}))
 }
