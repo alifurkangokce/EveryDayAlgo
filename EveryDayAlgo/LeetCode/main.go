@@ -331,6 +331,7 @@ func main() {
 	// fmt.Print(countGoodRectangles([][]int{{5, 8}, {3, 9}, {5, 12}, {16, 5}}))
 	// fmt.Print(largestAltitude([]int{52, -91, 72}))
 	////fmt.Print(countBalls(1, 10))
-	fmt.Print(check([]int{6, 10, 6}))
-	fmt.Print(sumOfUnique([]int{1, 2, 3, 2}))
+	// fmt.Print(check([]int{6, 10, 6}))
+	// fmt.Print(sumOfUnique([]int{1, 2, 3, 2}))
+	fmt.Print(minOperationsBinaryString("10010100"))
 }
