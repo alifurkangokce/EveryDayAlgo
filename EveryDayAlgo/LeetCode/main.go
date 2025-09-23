@@ -334,5 +334,6 @@ func main() {
 	// fmt.Print(check([]int{6, 10, 6}))
 	// fmt.Print(sumOfUnique([]int{1, 2, 3, 2}))
 	// fmt.Print(minOperationsBinaryString("10010100"))
-	fmt.Print(longestNiceSubstring("YazaAay"))
+	// fmt.Print(longestNiceSubstring("YazaAay"))
+	fmt.Print(mergeAlternately("a", "b"))
 }
