@@ -336,5 +336,6 @@ func main() {
 	// fmt.Print(minOperationsBinaryString("10010100"))
 	// fmt.Print(longestNiceSubstring("YazaAay"))
 	// fmt.Print(mergeAlternately("a", "b"))
-	fmt.Print(countMatches([][]string{{"phone", "blue", "pixel"}, {"computer", "silver", "lenovo"}, {"phone", "gold", "iphone"}}, "type", "phone"))
+	// fmt.Print(countMatches([][]string{{"phone", "blue", "pixel"}, {"computer", "silver", "lenovo"}, {"phone", "gold", "iphone"}}, "type", "phone"))
+	fmt.Print(nearestValidPoint(3, 4, [][]int{{2, 3}}))
 }
