@@ -339,5 +339,6 @@ func main() {
 	// fmt.Print(countMatches([][]string{{"phone", "blue", "pixel"}, {"computer", "silver", "lenovo"}, {"phone", "gold", "iphone"}}, "type", "phone"))
 	// fmt.Print(nearestValidPoint(3, 4, [][]int{{2, 3}}))
 	// fmt.Print(findCenter([][]int{{1, 2}, {2, 3}, {4, 2}}))
-	fmt.Print(squareIsWhite("c7"))
+	// fmt.Print(squareIsWhite("c7"))
+	fmt.Print(truncateSentence("What is the solution to this problem", 4))
 }
